@@ -1,801 +1,801 @@
 /*venta*/
-INSERT INTO venta VALUES(1, 'Escolar', 44)
-INSERT INTO venta VALUES(2, 'Escolar', 123)
-INSERT INTO venta VALUES(3, 'Escolar', 42)
-INSERT INTO venta VALUES(4, 'Año nuevo', 85)
-INSERT INTO venta VALUES(5, 'Navidad', 37)
-INSERT INTO venta VALUES(6, 'Año nuevo', 88)
-INSERT INTO venta VALUES(7, 'Escolar', 36)
-INSERT INTO venta VALUES(8, 'Sin IVA', 113)
-INSERT INTO venta VALUES(9, 'Black Friday', 132)
-INSERT INTO venta VALUES(10, 'Halloween', 48)
-INSERT INTO venta VALUES(11, 'Halloween', 119)
-INSERT INTO venta VALUES(12, 'Halloween', 87)
-INSERT INTO venta VALUES(13, 'Escolar', 135)
-INSERT INTO venta VALUES(14, 'San Valentin', 20)
-INSERT INTO venta VALUES(15, 'Escolar', 90)
-INSERT INTO venta VALUES(16, 'Año nuevo', 52)
-INSERT INTO venta VALUES(17, 'Black Friday', 101)
-INSERT INTO venta VALUES(18, 'Año nuevo', 46)
-INSERT INTO venta VALUES(19, 'Halloween', 100)
-INSERT INTO venta VALUES(20, 'Black Friday', 145)
-INSERT INTO venta VALUES(21, 'Navidad', 135)
-INSERT INTO venta VALUES(22, 'Escolar', 2)
-INSERT INTO venta VALUES(23, 'San Valentin', 91)
-INSERT INTO venta VALUES(24, 'Escolar', 111)
-INSERT INTO venta VALUES(25, 'Escolar', 138)
-INSERT INTO venta VALUES(26, 'Sin IVA', 111)
-INSERT INTO venta VALUES(27, 'Navidad', 29)
-INSERT INTO venta VALUES(28, 'Black Friday', 33)
-INSERT INTO venta VALUES(29, 'Halloween', 20)
-INSERT INTO venta VALUES(30, 'San Valentin', 59)
-INSERT INTO venta VALUES(31, 'Escolar', 14)
-INSERT INTO venta VALUES(32, 'Navidad', 58)
-INSERT INTO venta VALUES(33, 'Black Friday', 22)
-INSERT INTO venta VALUES(34, 'Escolar', 123)
-INSERT INTO venta VALUES(35, 'Escolar', 76)
-INSERT INTO venta VALUES(36, 'Año nuevo', 58)
-INSERT INTO venta VALUES(37, 'Navidad', 117)
-INSERT INTO venta VALUES(38, 'San Valentin', 139)
-INSERT INTO venta VALUES(39, 'Navidad', 23)
-INSERT INTO venta VALUES(40, 'Escolar', 44)
-INSERT INTO venta VALUES(41, 'Año nuevo', 124)
-INSERT INTO venta VALUES(42, 'Black Friday', 147)
-INSERT INTO venta VALUES(43, 'Escolar', 68)
-INSERT INTO venta VALUES(44, 'Navidad', 148)
-INSERT INTO venta VALUES(45, 'Halloween', 75)
-INSERT INTO venta VALUES(46, 'Sin IVA', 82)
-INSERT INTO venta VALUES(47, 'Año nuevo', 12)
-INSERT INTO venta VALUES(48, 'Sin IVA', 146)
-INSERT INTO venta VALUES(49, 'Año nuevo', 125)
-INSERT INTO venta VALUES(50, 'Navidad', 48)
-INSERT INTO venta VALUES(51, 'Navidad', 30)
-INSERT INTO venta VALUES(52, 'Año nuevo', 22)
-INSERT INTO venta VALUES(53, 'Sin IVA', 109)
-INSERT INTO venta VALUES(54, 'Halloween', 127)
-INSERT INTO venta VALUES(55, 'Año nuevo', 31)
-INSERT INTO venta VALUES(56, 'Escolar', 60)
-INSERT INTO venta VALUES(57, 'Halloween', 131)
-INSERT INTO venta VALUES(58, 'Sin IVA', 35)
-INSERT INTO venta VALUES(59, 'San Valentin', 1)
-INSERT INTO venta VALUES(60, 'San Valentin', 11)
-INSERT INTO venta VALUES(61, 'Halloween', 143)
-INSERT INTO venta VALUES(62, 'Escolar', 97)
-INSERT INTO venta VALUES(63, 'Año nuevo', 1)
-INSERT INTO venta VALUES(64, 'Halloween', 23)
-INSERT INTO venta VALUES(65, 'Halloween', 62)
-INSERT INTO venta VALUES(66, 'Black Friday', 123)
-INSERT INTO venta VALUES(67, 'Halloween', 16)
-INSERT INTO venta VALUES(68, 'Año nuevo', 55)
-INSERT INTO venta VALUES(69, 'Black Friday', 42)
-INSERT INTO venta VALUES(70, 'Año nuevo', 43)
-INSERT INTO venta VALUES(71, 'Halloween', 69)
-INSERT INTO venta VALUES(72, 'Escolar', 143)
-INSERT INTO venta VALUES(73, 'San Valentin', 121)
-INSERT INTO venta VALUES(74, 'Navidad', 112)
-INSERT INTO venta VALUES(75, 'Sin IVA', 24)
-INSERT INTO venta VALUES(76, 'Black Friday', 76)
-INSERT INTO venta VALUES(77, 'San Valentin', 48)
-INSERT INTO venta VALUES(78, 'Sin IVA', 3)
-INSERT INTO venta VALUES(79, 'Escolar', 49)
-INSERT INTO venta VALUES(80, 'Año nuevo', 118)
-INSERT INTO venta VALUES(81, 'Halloween', 107)
-INSERT INTO venta VALUES(82, 'San Valentin', 74)
-INSERT INTO venta VALUES(83, 'Navidad', 46)
-INSERT INTO venta VALUES(84, 'Halloween', 142)
-INSERT INTO venta VALUES(85, 'Escolar', 62)
-INSERT INTO venta VALUES(86, 'San Valentin', 80)
-INSERT INTO venta VALUES(87, 'Halloween', 132)
-INSERT INTO venta VALUES(88, 'Halloween', 89)
-INSERT INTO venta VALUES(89, 'Escolar', 37)
-INSERT INTO venta VALUES(90, 'Año nuevo', 88)
-INSERT INTO venta VALUES(91, 'San Valentin', 108)
-INSERT INTO venta VALUES(92, 'Navidad', 147)
-INSERT INTO venta VALUES(93, 'Año nuevo', 116)
-INSERT INTO venta VALUES(94, 'Año nuevo', 74)
-INSERT INTO venta VALUES(95, 'Halloween', 81)
-INSERT INTO venta VALUES(96, 'Halloween', 105)
-INSERT INTO venta VALUES(97, 'Halloween', 98)
-INSERT INTO venta VALUES(98, 'Black Friday', 108)
-INSERT INTO venta VALUES(99, 'Black Friday', 56)
-INSERT INTO venta VALUES(100, 'Escolar', 81)
-INSERT INTO venta VALUES(101, 'Sin IVA', 54)
-INSERT INTO venta VALUES(102, 'Año nuevo', 94)
-INSERT INTO venta VALUES(103, 'Navidad', 30)
-INSERT INTO venta VALUES(104, 'San Valentin', 4)
-INSERT INTO venta VALUES(105, 'Año nuevo', 143)
-INSERT INTO venta VALUES(106, 'Navidad', 127)
-INSERT INTO venta VALUES(107, 'Halloween', 126)
-INSERT INTO venta VALUES(108, 'San Valentin', 116)
-INSERT INTO venta VALUES(109, 'Sin IVA', 3)
-INSERT INTO venta VALUES(110, 'Black Friday', 19)
-INSERT INTO venta VALUES(111, 'Año nuevo', 70)
-INSERT INTO venta VALUES(112, 'Black Friday', 93)
-INSERT INTO venta VALUES(113, 'Black Friday', 17)
-INSERT INTO venta VALUES(114, 'Navidad', 29)
-INSERT INTO venta VALUES(115, 'Halloween', 147)
-INSERT INTO venta VALUES(116, 'Sin IVA', 49)
-INSERT INTO venta VALUES(117, 'Halloween', 66)
-INSERT INTO venta VALUES(118, 'Navidad', 57)
-INSERT INTO venta VALUES(119, 'Black Friday', 90)
-INSERT INTO venta VALUES(120, 'Escolar', 90)
-INSERT INTO venta VALUES(121, 'Halloween', 87)
-INSERT INTO venta VALUES(122, 'Halloween', 86)
-INSERT INTO venta VALUES(123, 'Navidad', 89)
-INSERT INTO venta VALUES(124, 'Escolar', 125)
-INSERT INTO venta VALUES(125, 'Navidad', 137)
-INSERT INTO venta VALUES(126, 'San Valentin', 9)
-INSERT INTO venta VALUES(127, 'Escolar', 55)
-INSERT INTO venta VALUES(128, 'Halloween', 29)
-INSERT INTO venta VALUES(129, 'Sin IVA', 101)
-INSERT INTO venta VALUES(130, 'Navidad', 32)
-INSERT INTO venta VALUES(131, 'Halloween', 84)
-INSERT INTO venta VALUES(132, 'Escolar', 97)
-INSERT INTO venta VALUES(133, 'Black Friday', 46)
-INSERT INTO venta VALUES(134, 'Navidad', 37)
-INSERT INTO venta VALUES(135, 'Escolar', 103)
-INSERT INTO venta VALUES(136, 'Sin IVA', 18)
-INSERT INTO venta VALUES(137, 'Halloween', 114)
-INSERT INTO venta VALUES(138, 'Escolar', 59)
-INSERT INTO venta VALUES(139, 'Escolar', 18)
-INSERT INTO venta VALUES(140, 'Halloween', 109)
-INSERT INTO venta VALUES(141, 'San Valentin', 27)
-INSERT INTO venta VALUES(142, 'Sin IVA', 9)
-INSERT INTO venta VALUES(143, 'Sin IVA', 96)
-INSERT INTO venta VALUES(144, 'Sin IVA', 23)
-INSERT INTO venta VALUES(145, 'Navidad', 24)
-INSERT INTO venta VALUES(146, 'Escolar', 139)
-INSERT INTO venta VALUES(147, 'Black Friday', 129)
-INSERT INTO venta VALUES(148, 'Escolar', 72)
-INSERT INTO venta VALUES(149, 'San Valentin', 35)
-INSERT INTO venta VALUES(150, 'Black Friday', 121)
-INSERT INTO venta VALUES(151, 'Año nuevo', 25)
-INSERT INTO venta VALUES(152, 'Año nuevo', 36)
-INSERT INTO venta VALUES(153, 'Black Friday', 37)
-INSERT INTO venta VALUES(154, 'San Valentin', 14)
-INSERT INTO venta VALUES(155, 'Black Friday', 104)
-INSERT INTO venta VALUES(156, 'Año nuevo', 12)
-INSERT INTO venta VALUES(157, 'Sin IVA', 70)
-INSERT INTO venta VALUES(158, 'Navidad', 103)
-INSERT INTO venta VALUES(159, 'Halloween', 129)
-INSERT INTO venta VALUES(160, 'Año nuevo', 56)
-INSERT INTO venta VALUES(161, 'Halloween', 27)
-INSERT INTO venta VALUES(162, 'Navidad', 81)
-INSERT INTO venta VALUES(163, 'Navidad', 80)
-INSERT INTO venta VALUES(164, 'Black Friday', 31)
-INSERT INTO venta VALUES(165, 'Navidad', 26)
-INSERT INTO venta VALUES(166, 'Halloween', 43)
-INSERT INTO venta VALUES(167, 'Sin IVA', 79)
-INSERT INTO venta VALUES(168, 'Black Friday', 45)
-INSERT INTO venta VALUES(169, 'Navidad', 114)
-INSERT INTO venta VALUES(170, 'Escolar', 51)
-INSERT INTO venta VALUES(171, 'Navidad', 73)
-INSERT INTO venta VALUES(172, 'Escolar', 102)
-INSERT INTO venta VALUES(173, 'Año nuevo', 53)
-INSERT INTO venta VALUES(174, 'San Valentin', 89)
-INSERT INTO venta VALUES(175, 'Año nuevo', 100)
-INSERT INTO venta VALUES(176, 'Navidad', 1)
-INSERT INTO venta VALUES(177, 'Sin IVA', 40)
-INSERT INTO venta VALUES(178, 'Año nuevo', 15)
-INSERT INTO venta VALUES(179, 'Sin IVA', 75)
-INSERT INTO venta VALUES(180, 'Escolar', 90)
-INSERT INTO venta VALUES(181, 'Navidad', 71)
-INSERT INTO venta VALUES(182, 'Navidad', 137)
-INSERT INTO venta VALUES(183, 'Black Friday', 139)
-INSERT INTO venta VALUES(184, 'San Valentin', 52)
-INSERT INTO venta VALUES(185, 'Halloween', 134)
-INSERT INTO venta VALUES(186, 'Año nuevo', 128)
-INSERT INTO venta VALUES(187, 'San Valentin', 98)
-INSERT INTO venta VALUES(188, 'Escolar', 93)
-INSERT INTO venta VALUES(189, 'Escolar', 32)
-INSERT INTO venta VALUES(190, 'Año nuevo', 82)
-INSERT INTO venta VALUES(191, 'Navidad', 12)
-INSERT INTO venta VALUES(192, 'Navidad', 85)
-INSERT INTO venta VALUES(193, 'Año nuevo', 19)
-INSERT INTO venta VALUES(194, 'Sin IVA', 104)
-INSERT INTO venta VALUES(195, 'Navidad', 93)
-INSERT INTO venta VALUES(196, 'Black Friday', 13)
-INSERT INTO venta VALUES(197, 'Black Friday', 102)
-INSERT INTO venta VALUES(198, 'San Valentin', 89)
-INSERT INTO venta VALUES(199, 'San Valentin', 99)
-INSERT INTO venta VALUES(200, 'Navidad', 96)
-INSERT INTO venta VALUES(201, 'Halloween', 126)
-INSERT INTO venta VALUES(202, 'Año nuevo', 125)
-INSERT INTO venta VALUES(203, 'Halloween', 33)
-INSERT INTO venta VALUES(204, 'Navidad', 35)
-INSERT INTO venta VALUES(205, 'Navidad', 29)
-INSERT INTO venta VALUES(206, 'Año nuevo', 118)
-INSERT INTO venta VALUES(207, 'Black Friday', 44)
-INSERT INTO venta VALUES(208, 'Halloween', 9)
-INSERT INTO venta VALUES(209, 'San Valentin', 70)
-INSERT INTO venta VALUES(210, 'Navidad', 12)
-INSERT INTO venta VALUES(211, 'Sin IVA', 14)
-INSERT INTO venta VALUES(212, 'Navidad', 145)
-INSERT INTO venta VALUES(213, 'Escolar', 81)
-INSERT INTO venta VALUES(214, 'Halloween', 37)
-INSERT INTO venta VALUES(215, 'Black Friday', 138)
-INSERT INTO venta VALUES(216, 'Sin IVA', 71)
-INSERT INTO venta VALUES(217, 'Halloween', 45)
-INSERT INTO venta VALUES(218, 'Sin IVA', 98)
-INSERT INTO venta VALUES(219, 'Black Friday', 145)
-INSERT INTO venta VALUES(220, 'Black Friday', 75)
-INSERT INTO venta VALUES(221, 'Año nuevo', 32)
-INSERT INTO venta VALUES(222, 'San Valentin', 108)
-INSERT INTO venta VALUES(223, 'San Valentin', 96)
-INSERT INTO venta VALUES(224, 'Black Friday', 2)
-INSERT INTO venta VALUES(225, 'Black Friday', 3)
-INSERT INTO venta VALUES(226, 'San Valentin', 42)
-INSERT INTO venta VALUES(227, 'Escolar', 1)
-INSERT INTO venta VALUES(228, 'Escolar', 112)
-INSERT INTO venta VALUES(229, 'Navidad', 119)
-INSERT INTO venta VALUES(230, 'Escolar', 130)
-INSERT INTO venta VALUES(231, 'Halloween', 19)
-INSERT INTO venta VALUES(232, 'Sin IVA', 97)
-INSERT INTO venta VALUES(233, 'Navidad', 113)
-INSERT INTO venta VALUES(234, 'Sin IVA', 8)
-INSERT INTO venta VALUES(235, 'Black Friday', 149)
-INSERT INTO venta VALUES(236, 'Navidad', 55)
-INSERT INTO venta VALUES(237, 'Sin IVA', 75)
-INSERT INTO venta VALUES(238, 'Black Friday', 120)
-INSERT INTO venta VALUES(239, 'San Valentin', 21)
-INSERT INTO venta VALUES(240, 'Black Friday', 26)
-INSERT INTO venta VALUES(241, 'Escolar', 115)
-INSERT INTO venta VALUES(242, 'Halloween', 108)
-INSERT INTO venta VALUES(243, 'Black Friday', 53)
-INSERT INTO venta VALUES(244, 'Navidad', 92)
-INSERT INTO venta VALUES(245, 'Navidad', 120)
-INSERT INTO venta VALUES(246, 'Sin IVA', 22)
-INSERT INTO venta VALUES(247, 'Halloween', 73)
-INSERT INTO venta VALUES(248, 'Navidad', 65)
-INSERT INTO venta VALUES(249, 'Escolar', 44)
-INSERT INTO venta VALUES(250, 'Sin IVA', 98)
-INSERT INTO venta VALUES(251, 'Sin IVA', 72)
-INSERT INTO venta VALUES(252, 'Navidad', 140)
-INSERT INTO venta VALUES(253, 'San Valentin', 61)
-INSERT INTO venta VALUES(254, 'Escolar', 111)
-INSERT INTO venta VALUES(255, 'Año nuevo', 45)
-INSERT INTO venta VALUES(256, 'Navidad', 73)
-INSERT INTO venta VALUES(257, 'San Valentin', 73)
-INSERT INTO venta VALUES(258, 'Escolar', 117)
-INSERT INTO venta VALUES(259, 'Navidad', 121)
-INSERT INTO venta VALUES(260, 'Año nuevo', 24)
-INSERT INTO venta VALUES(261, 'Año nuevo', 45)
-INSERT INTO venta VALUES(262, 'Año nuevo', 36)
-INSERT INTO venta VALUES(263, 'San Valentin', 42)
-INSERT INTO venta VALUES(264, 'Halloween', 123)
-INSERT INTO venta VALUES(265, 'Black Friday', 48)
-INSERT INTO venta VALUES(266, 'Año nuevo', 11)
-INSERT INTO venta VALUES(267, 'Navidad', 6)
-INSERT INTO venta VALUES(268, 'Año nuevo', 92)
-INSERT INTO venta VALUES(269, 'Año nuevo', 35)
-INSERT INTO venta VALUES(270, 'Navidad', 128)
-INSERT INTO venta VALUES(271, 'San Valentin', 135)
-INSERT INTO venta VALUES(272, 'Halloween', 6)
-INSERT INTO venta VALUES(273, 'Año nuevo', 30)
-INSERT INTO venta VALUES(274, 'Año nuevo', 117)
-INSERT INTO venta VALUES(275, 'Sin IVA', 4)
-INSERT INTO venta VALUES(276, 'San Valentin', 65)
-INSERT INTO venta VALUES(277, 'Navidad', 101)
-INSERT INTO venta VALUES(278, 'Black Friday', 69)
-INSERT INTO venta VALUES(279, 'Año nuevo', 113)
-INSERT INTO venta VALUES(280, 'Halloween', 136)
-INSERT INTO venta VALUES(281, 'Navidad', 34)
-INSERT INTO venta VALUES(282, 'Año nuevo', 13)
-INSERT INTO venta VALUES(283, 'Navidad', 123)
-INSERT INTO venta VALUES(284, 'Black Friday', 147)
-INSERT INTO venta VALUES(285, 'Navidad', 104)
-INSERT INTO venta VALUES(286, 'San Valentin', 3)
-INSERT INTO venta VALUES(287, 'Black Friday', 117)
-INSERT INTO venta VALUES(288, 'Escolar', 81)
-INSERT INTO venta VALUES(289, 'Año nuevo', 144)
-INSERT INTO venta VALUES(290, 'Navidad', 52)
-INSERT INTO venta VALUES(291, 'San Valentin', 111)
-INSERT INTO venta VALUES(292, 'San Valentin', 100)
-INSERT INTO venta VALUES(293, 'Black Friday', 138)
-INSERT INTO venta VALUES(294, 'Escolar', 24)
-INSERT INTO venta VALUES(295, 'Año nuevo', 133)
-INSERT INTO venta VALUES(296, 'Halloween', 56)
-INSERT INTO venta VALUES(297, 'Año nuevo', 2)
-INSERT INTO venta VALUES(298, 'Sin IVA', 134)
-INSERT INTO venta VALUES(299, 'Año nuevo', 132)
-INSERT INTO venta VALUES(300, 'Sin IVA', 50)
-INSERT INTO venta VALUES(301, 'Black Friday', 104)
-INSERT INTO venta VALUES(302, 'San Valentin', 102)
-INSERT INTO venta VALUES(303, 'Black Friday', 125)
-INSERT INTO venta VALUES(304, 'Sin IVA', 114)
-INSERT INTO venta VALUES(305, 'Navidad', 26)
-INSERT INTO venta VALUES(306, 'Año nuevo', 120)
-INSERT INTO venta VALUES(307, 'Halloween', 60)
-INSERT INTO venta VALUES(308, 'Black Friday', 14)
-INSERT INTO venta VALUES(309, 'San Valentin', 72)
-INSERT INTO venta VALUES(310, 'Escolar', 129)
-INSERT INTO venta VALUES(311, 'Navidad', 103)
-INSERT INTO venta VALUES(312, 'Sin IVA', 67)
-INSERT INTO venta VALUES(313, 'Halloween', 54)
-INSERT INTO venta VALUES(314, 'Año nuevo', 117)
-INSERT INTO venta VALUES(315, 'San Valentin', 148)
-INSERT INTO venta VALUES(316, 'San Valentin', 14)
-INSERT INTO venta VALUES(317, 'Escolar', 96)
-INSERT INTO venta VALUES(318, 'Escolar', 60)
-INSERT INTO venta VALUES(319, 'Sin IVA', 27)
-INSERT INTO venta VALUES(320, 'San Valentin', 60)
-INSERT INTO venta VALUES(321, 'Halloween', 129)
-INSERT INTO venta VALUES(322, 'Navidad', 101)
-INSERT INTO venta VALUES(323, 'Sin IVA', 35)
-INSERT INTO venta VALUES(324, 'Black Friday', 96)
-INSERT INTO venta VALUES(325, 'Black Friday', 22)
-INSERT INTO venta VALUES(326, 'Navidad', 45)
-INSERT INTO venta VALUES(327, 'Navidad', 53)
-INSERT INTO venta VALUES(328, 'San Valentin', 10)
-INSERT INTO venta VALUES(329, 'Año nuevo', 50)
-INSERT INTO venta VALUES(330, 'Escolar', 133)
-INSERT INTO venta VALUES(331, 'Navidad', 126)
-INSERT INTO venta VALUES(332, 'Escolar', 124)
-INSERT INTO venta VALUES(333, 'Black Friday', 134)
-INSERT INTO venta VALUES(334, 'Año nuevo', 130)
-INSERT INTO venta VALUES(335, 'San Valentin', 119)
-INSERT INTO venta VALUES(336, 'Halloween', 46)
-INSERT INTO venta VALUES(337, 'San Valentin', 52)
-INSERT INTO venta VALUES(338, 'Escolar', 82)
-INSERT INTO venta VALUES(339, 'Sin IVA', 108)
-INSERT INTO venta VALUES(340, 'Sin IVA', 140)
-INSERT INTO venta VALUES(341, 'Sin IVA', 17)
-INSERT INTO venta VALUES(342, 'Sin IVA', 40)
-INSERT INTO venta VALUES(343, 'Navidad', 34)
-INSERT INTO venta VALUES(344, 'San Valentin', 62)
-INSERT INTO venta VALUES(345, 'Año nuevo', 126)
-INSERT INTO venta VALUES(346, 'Escolar', 22)
-INSERT INTO venta VALUES(347, 'Sin IVA', 33)
-INSERT INTO venta VALUES(348, 'Navidad', 141)
-INSERT INTO venta VALUES(349, 'San Valentin', 52)
-INSERT INTO venta VALUES(350, 'Sin IVA', 138)
-INSERT INTO venta VALUES(351, 'Año nuevo', 142)
-INSERT INTO venta VALUES(352, 'Navidad', 129)
-INSERT INTO venta VALUES(353, 'San Valentin', 10)
-INSERT INTO venta VALUES(354, 'Black Friday', 2)
-INSERT INTO venta VALUES(355, 'Escolar', 142)
-INSERT INTO venta VALUES(356, 'Sin IVA', 118)
-INSERT INTO venta VALUES(357, 'Halloween', 12)
-INSERT INTO venta VALUES(358, 'Año nuevo', 73)
-INSERT INTO venta VALUES(359, 'Halloween', 98)
-INSERT INTO venta VALUES(360, 'Black Friday', 69)
-INSERT INTO venta VALUES(361, 'San Valentin', 60)
-INSERT INTO venta VALUES(362, 'Navidad', 93)
-INSERT INTO venta VALUES(363, 'San Valentin', 36)
-INSERT INTO venta VALUES(364, 'Escolar', 33)
-INSERT INTO venta VALUES(365, 'Sin IVA', 39)
-INSERT INTO venta VALUES(366, 'Escolar', 6)
-INSERT INTO venta VALUES(367, 'San Valentin', 38)
-INSERT INTO venta VALUES(368, 'Escolar', 52)
-INSERT INTO venta VALUES(369, 'Navidad', 75)
-INSERT INTO venta VALUES(370, 'Escolar', 54)
-INSERT INTO venta VALUES(371, 'Black Friday', 78)
-INSERT INTO venta VALUES(372, 'Halloween', 150)
-INSERT INTO venta VALUES(373, 'Black Friday', 72)
-INSERT INTO venta VALUES(374, 'Sin IVA', 100)
-INSERT INTO venta VALUES(375, 'Halloween', 10)
-INSERT INTO venta VALUES(376, 'Halloween', 82)
-INSERT INTO venta VALUES(377, 'San Valentin', 97)
-INSERT INTO venta VALUES(378, 'Escolar', 129)
-INSERT INTO venta VALUES(379, 'Navidad', 41)
-INSERT INTO venta VALUES(380, 'Sin IVA', 47)
-INSERT INTO venta VALUES(381, 'Black Friday', 72)
-INSERT INTO venta VALUES(382, 'Escolar', 141)
-INSERT INTO venta VALUES(383, 'Año nuevo', 83)
-INSERT INTO venta VALUES(384, 'Black Friday', 74)
-INSERT INTO venta VALUES(385, 'Black Friday', 144)
-INSERT INTO venta VALUES(386, 'Black Friday', 105)
-INSERT INTO venta VALUES(387, 'San Valentin', 102)
-INSERT INTO venta VALUES(388, 'Halloween', 60)
-INSERT INTO venta VALUES(389, 'Navidad', 106)
-INSERT INTO venta VALUES(390, 'San Valentin', 109)
-INSERT INTO venta VALUES(391, 'Escolar', 16)
-INSERT INTO venta VALUES(392, 'Escolar', 129)
-INSERT INTO venta VALUES(393, 'Navidad', 27)
-INSERT INTO venta VALUES(394, 'Año nuevo', 92)
-INSERT INTO venta VALUES(395, 'Escolar', 113)
-INSERT INTO venta VALUES(396, 'Año nuevo', 97)
-INSERT INTO venta VALUES(397, 'Año nuevo', 93)
-INSERT INTO venta VALUES(398, 'San Valentin', 132)
-INSERT INTO venta VALUES(399, 'Escolar', 7)
-INSERT INTO venta VALUES(400, 'Sin IVA', 49)
-INSERT INTO venta VALUES(401, 'Escolar', 111)
-INSERT INTO venta VALUES(402, 'Sin IVA', 91)
-INSERT INTO venta VALUES(403, 'San Valentin', 54)
-INSERT INTO venta VALUES(404, 'Navidad', 66)
-INSERT INTO venta VALUES(405, 'Año nuevo', 137)
-INSERT INTO venta VALUES(406, 'San Valentin', 45)
-INSERT INTO venta VALUES(407, 'Escolar', 115)
-INSERT INTO venta VALUES(408, 'Escolar', 34)
-INSERT INTO venta VALUES(409, 'Sin IVA', 33)
-INSERT INTO venta VALUES(410, 'Escolar', 24)
-INSERT INTO venta VALUES(411, 'Black Friday', 150)
-INSERT INTO venta VALUES(412, 'Año nuevo', 121)
-INSERT INTO venta VALUES(413, 'Escolar', 137)
-INSERT INTO venta VALUES(414, 'Escolar', 78)
-INSERT INTO venta VALUES(415, 'Halloween', 96)
-INSERT INTO venta VALUES(416, 'Sin IVA', 13)
-INSERT INTO venta VALUES(417, 'Halloween', 60)
-INSERT INTO venta VALUES(418, 'Año nuevo', 60)
-INSERT INTO venta VALUES(419, 'San Valentin', 36)
-INSERT INTO venta VALUES(420, 'Sin IVA', 25)
-INSERT INTO venta VALUES(421, 'Escolar', 69)
-INSERT INTO venta VALUES(422, 'Navidad', 101)
-INSERT INTO venta VALUES(423, 'Black Friday', 1)
-INSERT INTO venta VALUES(424, 'Halloween', 123)
-INSERT INTO venta VALUES(425, 'Escolar', 65)
-INSERT INTO venta VALUES(426, 'Black Friday', 145)
-INSERT INTO venta VALUES(427, 'Año nuevo', 9)
-INSERT INTO venta VALUES(428, 'San Valentin', 19)
-INSERT INTO venta VALUES(429, 'San Valentin', 97)
-INSERT INTO venta VALUES(430, 'Navidad', 3)
-INSERT INTO venta VALUES(431, 'Navidad', 5)
-INSERT INTO venta VALUES(432, 'Sin IVA', 10)
-INSERT INTO venta VALUES(433, 'San Valentin', 30)
-INSERT INTO venta VALUES(434, 'Halloween', 143)
-INSERT INTO venta VALUES(435, 'Navidad', 123)
-INSERT INTO venta VALUES(436, 'Escolar', 67)
-INSERT INTO venta VALUES(437, 'Año nuevo', 18)
-INSERT INTO venta VALUES(438, 'San Valentin', 140)
-INSERT INTO venta VALUES(439, 'San Valentin', 84)
-INSERT INTO venta VALUES(440, 'Año nuevo', 36)
-INSERT INTO venta VALUES(441, 'Navidad', 91)
-INSERT INTO venta VALUES(442, 'Black Friday', 147)
-INSERT INTO venta VALUES(443, 'Halloween', 139)
-INSERT INTO venta VALUES(444, 'San Valentin', 112)
-INSERT INTO venta VALUES(445, 'Sin IVA', 112)
-INSERT INTO venta VALUES(446, 'Halloween', 82)
-INSERT INTO venta VALUES(447, 'Año nuevo', 58)
-INSERT INTO venta VALUES(448, 'Sin IVA', 21)
-INSERT INTO venta VALUES(449, 'Año nuevo', 26)
-INSERT INTO venta VALUES(450, 'Año nuevo', 57)
-INSERT INTO venta VALUES(451, 'Año nuevo', 15)
-INSERT INTO venta VALUES(452, 'Escolar', 48)
-INSERT INTO venta VALUES(453, 'San Valentin', 63)
-INSERT INTO venta VALUES(454, 'Navidad', 1)
-INSERT INTO venta VALUES(455, 'Navidad', 89)
-INSERT INTO venta VALUES(456, 'Navidad', 14)
-INSERT INTO venta VALUES(457, 'Halloween', 39)
-INSERT INTO venta VALUES(458, 'San Valentin', 78)
-INSERT INTO venta VALUES(459, 'Navidad', 83)
-INSERT INTO venta VALUES(460, 'Año nuevo', 24)
-INSERT INTO venta VALUES(461, 'Black Friday', 142)
-INSERT INTO venta VALUES(462, 'Sin IVA', 63)
-INSERT INTO venta VALUES(463, 'Navidad', 16)
-INSERT INTO venta VALUES(464, 'Navidad', 61)
-INSERT INTO venta VALUES(465, 'Black Friday', 8)
-INSERT INTO venta VALUES(466, 'San Valentin', 111)
-INSERT INTO venta VALUES(467, 'Black Friday', 144)
-INSERT INTO venta VALUES(468, 'Black Friday', 25)
-INSERT INTO venta VALUES(469, 'Año nuevo', 92)
-INSERT INTO venta VALUES(470, 'San Valentin', 121)
-INSERT INTO venta VALUES(471, 'San Valentin', 140)
-INSERT INTO venta VALUES(472, 'Escolar', 146)
-INSERT INTO venta VALUES(473, 'Halloween', 29)
-INSERT INTO venta VALUES(474, 'Halloween', 72)
-INSERT INTO venta VALUES(475, 'Halloween', 55)
-INSERT INTO venta VALUES(476, 'Escolar', 3)
-INSERT INTO venta VALUES(477, 'Sin IVA', 149)
-INSERT INTO venta VALUES(478, 'Black Friday', 40)
-INSERT INTO venta VALUES(479, 'Black Friday', 68)
-INSERT INTO venta VALUES(480, 'Navidad', 89)
-INSERT INTO venta VALUES(481, 'Escolar', 35)
-INSERT INTO venta VALUES(482, 'Navidad', 85)
-INSERT INTO venta VALUES(483, 'San Valentin', 55)
-INSERT INTO venta VALUES(484, 'Escolar', 78)
-INSERT INTO venta VALUES(485, 'Navidad', 7)
-INSERT INTO venta VALUES(486, 'Escolar', 111)
-INSERT INTO venta VALUES(487, 'Black Friday', 74)
-INSERT INTO venta VALUES(488, 'Año nuevo', 35)
-INSERT INTO venta VALUES(489, 'Navidad', 80)
-INSERT INTO venta VALUES(490, 'Sin IVA', 57)
-INSERT INTO venta VALUES(491, 'Año nuevo', 43)
-INSERT INTO venta VALUES(492, 'San Valentin', 58)
-INSERT INTO venta VALUES(493, 'Sin IVA', 83)
-INSERT INTO venta VALUES(494, 'Halloween', 86)
-INSERT INTO venta VALUES(495, 'Sin IVA', 148)
-INSERT INTO venta VALUES(496, 'Navidad', 66)
-INSERT INTO venta VALUES(497, 'Halloween', 135)
-INSERT INTO venta VALUES(498, 'Escolar', 140)
-INSERT INTO venta VALUES(499, 'Black Friday', 133)
-INSERT INTO venta VALUES(500, 'Navidad', 32)
-INSERT INTO venta VALUES(501, 'Navidad', 108)
-INSERT INTO venta VALUES(502, 'Sin IVA', 55)
-INSERT INTO venta VALUES(503, 'Black Friday', 42)
-INSERT INTO venta VALUES(504, 'Navidad', 125)
-INSERT INTO venta VALUES(505, 'Halloween', 66)
-INSERT INTO venta VALUES(506, 'Navidad', 120)
-INSERT INTO venta VALUES(507, 'Sin IVA', 104)
-INSERT INTO venta VALUES(508, 'Black Friday', 79)
-INSERT INTO venta VALUES(509, 'Sin IVA', 85)
-INSERT INTO venta VALUES(510, 'Sin IVA', 27)
-INSERT INTO venta VALUES(511, 'Navidad', 5)
-INSERT INTO venta VALUES(512, 'Navidad', 8)
-INSERT INTO venta VALUES(513, 'Sin IVA', 71)
-INSERT INTO venta VALUES(514, 'Halloween', 4)
-INSERT INTO venta VALUES(515, 'Sin IVA', 43)
-INSERT INTO venta VALUES(516, 'Halloween', 70)
-INSERT INTO venta VALUES(517, 'Navidad', 45)
-INSERT INTO venta VALUES(518, 'San Valentin', 74)
-INSERT INTO venta VALUES(519, 'Black Friday', 75)
-INSERT INTO venta VALUES(520, 'Navidad', 10)
-INSERT INTO venta VALUES(521, 'Navidad', 117)
-INSERT INTO venta VALUES(522, 'Sin IVA', 53)
-INSERT INTO venta VALUES(523, 'Navidad', 112)
-INSERT INTO venta VALUES(524, 'Sin IVA', 34)
-INSERT INTO venta VALUES(525, 'Sin IVA', 95)
-INSERT INTO venta VALUES(526, 'Año nuevo', 66)
-INSERT INTO venta VALUES(527, 'Black Friday', 24)
-INSERT INTO venta VALUES(528, 'Halloween', 84)
-INSERT INTO venta VALUES(529, 'Navidad', 75)
-INSERT INTO venta VALUES(530, 'Escolar', 76)
-INSERT INTO venta VALUES(531, 'Escolar', 119)
-INSERT INTO venta VALUES(532, 'Halloween', 113)
-INSERT INTO venta VALUES(533, 'Año nuevo', 21)
-INSERT INTO venta VALUES(534, 'Navidad', 120)
-INSERT INTO venta VALUES(535, 'Sin IVA', 53)
-INSERT INTO venta VALUES(536, 'Escolar', 95)
-INSERT INTO venta VALUES(537, 'Black Friday', 117)
-INSERT INTO venta VALUES(538, 'Escolar', 27)
-INSERT INTO venta VALUES(539, 'Sin IVA', 28)
-INSERT INTO venta VALUES(540, 'San Valentin', 69)
-INSERT INTO venta VALUES(541, 'San Valentin', 93)
-INSERT INTO venta VALUES(542, 'Black Friday', 101)
-INSERT INTO venta VALUES(543, 'Halloween', 7)
-INSERT INTO venta VALUES(544, 'Black Friday', 111)
-INSERT INTO venta VALUES(545, 'Navidad', 55)
-INSERT INTO venta VALUES(546, 'Navidad', 123)
-INSERT INTO venta VALUES(547, 'San Valentin', 143)
-INSERT INTO venta VALUES(548, 'Black Friday', 142)
-INSERT INTO venta VALUES(549, 'Black Friday', 42)
-INSERT INTO venta VALUES(550, 'Escolar', 119)
-INSERT INTO venta VALUES(551, 'Halloween', 17)
-INSERT INTO venta VALUES(552, 'Sin IVA', 55)
-INSERT INTO venta VALUES(553, 'Navidad', 120)
-INSERT INTO venta VALUES(554, 'Escolar', 5)
-INSERT INTO venta VALUES(555, 'San Valentin', 118)
-INSERT INTO venta VALUES(556, 'San Valentin', 28)
-INSERT INTO venta VALUES(557, 'Navidad', 46)
-INSERT INTO venta VALUES(558, 'Escolar', 55)
-INSERT INTO venta VALUES(559, 'Escolar', 103)
-INSERT INTO venta VALUES(560, 'Navidad', 3)
-INSERT INTO venta VALUES(561, 'Navidad', 66)
-INSERT INTO venta VALUES(562, 'Sin IVA', 74)
-INSERT INTO venta VALUES(563, 'Escolar', 120)
-INSERT INTO venta VALUES(564, 'Navidad', 12)
-INSERT INTO venta VALUES(565, 'Navidad', 96)
-INSERT INTO venta VALUES(566, 'Año nuevo', 40)
-INSERT INTO venta VALUES(567, 'Año nuevo', 132)
-INSERT INTO venta VALUES(568, 'Año nuevo', 12)
-INSERT INTO venta VALUES(569, 'Black Friday', 87)
-INSERT INTO venta VALUES(570, 'Año nuevo', 122)
-INSERT INTO venta VALUES(571, 'Año nuevo', 109)
-INSERT INTO venta VALUES(572, 'Año nuevo', 136)
-INSERT INTO venta VALUES(573, 'Escolar', 147)
-INSERT INTO venta VALUES(574, 'Navidad', 36)
-INSERT INTO venta VALUES(575, 'Halloween', 135)
-INSERT INTO venta VALUES(576, 'Halloween', 30)
-INSERT INTO venta VALUES(577, 'Black Friday', 39)
-INSERT INTO venta VALUES(578, 'Escolar', 36)
-INSERT INTO venta VALUES(579, 'San Valentin', 114)
-INSERT INTO venta VALUES(580, 'San Valentin', 39)
-INSERT INTO venta VALUES(581, 'San Valentin', 119)
-INSERT INTO venta VALUES(582, 'Black Friday', 122)
-INSERT INTO venta VALUES(583, 'Black Friday', 105)
-INSERT INTO venta VALUES(584, 'Navidad', 15)
-INSERT INTO venta VALUES(585, 'Año nuevo', 116)
-INSERT INTO venta VALUES(586, 'Escolar', 136)
-INSERT INTO venta VALUES(587, 'San Valentin', 14)
-INSERT INTO venta VALUES(588, 'San Valentin', 11)
-INSERT INTO venta VALUES(589, 'Black Friday', 27)
-INSERT INTO venta VALUES(590, 'Escolar', 94)
-INSERT INTO venta VALUES(591, 'Escolar', 88)
-INSERT INTO venta VALUES(592, 'Sin IVA', 125)
-INSERT INTO venta VALUES(593, 'Navidad', 53)
-INSERT INTO venta VALUES(594, 'Halloween', 131)
-INSERT INTO venta VALUES(595, 'San Valentin', 70)
-INSERT INTO venta VALUES(596, 'Halloween', 20)
-INSERT INTO venta VALUES(597, 'Escolar', 105)
-INSERT INTO venta VALUES(598, 'Escolar', 106)
-INSERT INTO venta VALUES(599, 'Black Friday', 90)
-INSERT INTO venta VALUES(600, 'Año nuevo', 63)
-INSERT INTO venta VALUES(601, 'Halloween', 53)
-INSERT INTO venta VALUES(602, 'Escolar', 27)
-INSERT INTO venta VALUES(603, 'Navidad', 63)
-INSERT INTO venta VALUES(604, 'San Valentin', 87)
-INSERT INTO venta VALUES(605, 'San Valentin', 80)
-INSERT INTO venta VALUES(606, 'Sin IVA', 53)
-INSERT INTO venta VALUES(607, 'Sin IVA', 122)
-INSERT INTO venta VALUES(608, 'Sin IVA', 91)
-INSERT INTO venta VALUES(609, 'Escolar', 72)
-INSERT INTO venta VALUES(610, 'Sin IVA', 134)
-INSERT INTO venta VALUES(611, 'Año nuevo', 87)
-INSERT INTO venta VALUES(612, 'San Valentin', 79)
-INSERT INTO venta VALUES(613, 'San Valentin', 68)
-INSERT INTO venta VALUES(614, 'Halloween', 131)
-INSERT INTO venta VALUES(615, 'Año nuevo', 48)
-INSERT INTO venta VALUES(616, 'Escolar', 21)
-INSERT INTO venta VALUES(617, 'Halloween', 116)
-INSERT INTO venta VALUES(618, 'Navidad', 124)
-INSERT INTO venta VALUES(619, 'Navidad', 49)
-INSERT INTO venta VALUES(620, 'Sin IVA', 55)
-INSERT INTO venta VALUES(621, 'Escolar', 115)
-INSERT INTO venta VALUES(622, 'Navidad', 133)
-INSERT INTO venta VALUES(623, 'San Valentin', 37)
-INSERT INTO venta VALUES(624, 'Escolar', 82)
-INSERT INTO venta VALUES(625, 'Sin IVA', 141)
-INSERT INTO venta VALUES(626, 'San Valentin', 58)
-INSERT INTO venta VALUES(627, 'Navidad', 117)
-INSERT INTO venta VALUES(628, 'Sin IVA', 141)
-INSERT INTO venta VALUES(629, 'Escolar', 30)
-INSERT INTO venta VALUES(630, 'Sin IVA', 138)
-INSERT INTO venta VALUES(631, 'Halloween', 84)
-INSERT INTO venta VALUES(632, 'Escolar', 88)
-INSERT INTO venta VALUES(633, 'Navidad', 146)
-INSERT INTO venta VALUES(634, 'Escolar', 49)
-INSERT INTO venta VALUES(635, 'Escolar', 11)
-INSERT INTO venta VALUES(636, 'San Valentin', 133)
-INSERT INTO venta VALUES(637, 'Año nuevo', 76)
-INSERT INTO venta VALUES(638, 'Año nuevo', 132)
-INSERT INTO venta VALUES(639, 'Navidad', 103)
-INSERT INTO venta VALUES(640, 'Escolar', 8)
-INSERT INTO venta VALUES(641, 'Black Friday', 27)
-INSERT INTO venta VALUES(642, 'Halloween', 115)
-INSERT INTO venta VALUES(643, 'Escolar', 13)
-INSERT INTO venta VALUES(644, 'Escolar', 143)
-INSERT INTO venta VALUES(645, 'Navidad', 31)
-INSERT INTO venta VALUES(646, 'Halloween', 25)
-INSERT INTO venta VALUES(647, 'Escolar', 74)
-INSERT INTO venta VALUES(648, 'San Valentin', 68)
-INSERT INTO venta VALUES(649, 'Sin IVA', 43)
-INSERT INTO venta VALUES(650, 'Black Friday', 135)
-INSERT INTO venta VALUES(651, 'Escolar', 2)
-INSERT INTO venta VALUES(652, 'Navidad', 50)
-INSERT INTO venta VALUES(653, 'Halloween', 25)
-INSERT INTO venta VALUES(654, 'Sin IVA', 54)
-INSERT INTO venta VALUES(655, 'Escolar', 78)
-INSERT INTO venta VALUES(656, 'Black Friday', 121)
-INSERT INTO venta VALUES(657, 'Halloween', 97)
-INSERT INTO venta VALUES(658, 'Halloween', 124)
-INSERT INTO venta VALUES(659, 'Black Friday', 42)
-INSERT INTO venta VALUES(660, 'Año nuevo', 15)
-INSERT INTO venta VALUES(661, 'Navidad', 119)
-INSERT INTO venta VALUES(662, 'Escolar', 29)
-INSERT INTO venta VALUES(663, 'Sin IVA', 140)
-INSERT INTO venta VALUES(664, 'Escolar', 21)
-INSERT INTO venta VALUES(665, 'Halloween', 105)
-INSERT INTO venta VALUES(666, 'Sin IVA', 124)
-INSERT INTO venta VALUES(667, 'Escolar', 117)
-INSERT INTO venta VALUES(668, 'Escolar', 29)
-INSERT INTO venta VALUES(669, 'Black Friday', 87)
-INSERT INTO venta VALUES(670, 'Navidad', 66)
-INSERT INTO venta VALUES(671, 'Año nuevo', 143)
-INSERT INTO venta VALUES(672, 'San Valentin', 78)
-INSERT INTO venta VALUES(673, 'Año nuevo', 48)
-INSERT INTO venta VALUES(674, 'Año nuevo', 125)
-INSERT INTO venta VALUES(675, 'San Valentin', 120)
-INSERT INTO venta VALUES(676, 'San Valentin', 119)
-INSERT INTO venta VALUES(677, 'Sin IVA', 38)
-INSERT INTO venta VALUES(678, 'Halloween', 40)
-INSERT INTO venta VALUES(679, 'Año nuevo', 33)
-INSERT INTO venta VALUES(680, 'Black Friday', 45)
-INSERT INTO venta VALUES(681, 'Black Friday', 31)
-INSERT INTO venta VALUES(682, 'Navidad', 66)
-INSERT INTO venta VALUES(683, 'Navidad', 86)
-INSERT INTO venta VALUES(684, 'Año nuevo', 12)
-INSERT INTO venta VALUES(685, 'San Valentin', 36)
-INSERT INTO venta VALUES(686, 'Escolar', 115)
-INSERT INTO venta VALUES(687, 'Sin IVA', 17)
-INSERT INTO venta VALUES(688, 'Sin IVA', 133)
-INSERT INTO venta VALUES(689, 'Sin IVA', 80)
-INSERT INTO venta VALUES(690, 'Sin IVA', 63)
-INSERT INTO venta VALUES(691, 'Halloween', 16)
-INSERT INTO venta VALUES(692, 'Black Friday', 43)
-INSERT INTO venta VALUES(693, 'Navidad', 49)
-INSERT INTO venta VALUES(694, 'Sin IVA', 116)
-INSERT INTO venta VALUES(695, 'Escolar', 1)
-INSERT INTO venta VALUES(696, 'Black Friday', 136)
-INSERT INTO venta VALUES(697, 'Sin IVA', 135)
-INSERT INTO venta VALUES(698, 'Año nuevo', 33)
-INSERT INTO venta VALUES(699, 'Escolar', 55)
-INSERT INTO venta VALUES(700, 'Navidad', 136)
-INSERT INTO venta VALUES(701, 'Año nuevo', 80)
-INSERT INTO venta VALUES(702, 'Black Friday', 32)
-INSERT INTO venta VALUES(703, 'Escolar', 80)
-INSERT INTO venta VALUES(704, 'Halloween', 15)
-INSERT INTO venta VALUES(705, 'San Valentin', 48)
-INSERT INTO venta VALUES(706, 'Black Friday', 48)
-INSERT INTO venta VALUES(707, 'Escolar', 144)
-INSERT INTO venta VALUES(708, 'Año nuevo', 16)
-INSERT INTO venta VALUES(709, 'Black Friday', 69)
-INSERT INTO venta VALUES(710, 'Año nuevo', 11)
-INSERT INTO venta VALUES(711, 'Halloween', 29)
-INSERT INTO venta VALUES(712, 'Sin IVA', 57)
-INSERT INTO venta VALUES(713, 'Navidad', 24)
-INSERT INTO venta VALUES(714, 'Halloween', 79)
-INSERT INTO venta VALUES(715, 'Año nuevo', 9)
-INSERT INTO venta VALUES(716, 'San Valentin', 138)
-INSERT INTO venta VALUES(717, 'Black Friday', 80)
-INSERT INTO venta VALUES(718, 'Navidad', 53)
-INSERT INTO venta VALUES(719, 'San Valentin', 122)
-INSERT INTO venta VALUES(720, 'Black Friday', 94)
-INSERT INTO venta VALUES(721, 'San Valentin', 75)
-INSERT INTO venta VALUES(722, 'Halloween', 100)
-INSERT INTO venta VALUES(723, 'Navidad', 33)
-INSERT INTO venta VALUES(724, 'Año nuevo', 95)
-INSERT INTO venta VALUES(725, 'Halloween', 78)
-INSERT INTO venta VALUES(726, 'Navidad', 144)
-INSERT INTO venta VALUES(727, 'Sin IVA', 62)
-INSERT INTO venta VALUES(728, 'Halloween', 55)
-INSERT INTO venta VALUES(729, 'Black Friday', 53)
-INSERT INTO venta VALUES(730, 'Navidad', 142)
-INSERT INTO venta VALUES(731, 'Año nuevo', 25)
-INSERT INTO venta VALUES(732, 'Año nuevo', 103)
-INSERT INTO venta VALUES(733, 'Sin IVA', 149)
-INSERT INTO venta VALUES(734, 'Black Friday', 100)
-INSERT INTO venta VALUES(735, 'San Valentin', 13)
-INSERT INTO venta VALUES(736, 'Halloween', 150)
-INSERT INTO venta VALUES(737, 'San Valentin', 98)
-INSERT INTO venta VALUES(738, 'Sin IVA', 111)
-INSERT INTO venta VALUES(739, 'Escolar', 95)
-INSERT INTO venta VALUES(740, 'Año nuevo', 6)
-INSERT INTO venta VALUES(741, 'San Valentin', 59)
-INSERT INTO venta VALUES(742, 'Sin IVA', 64)
-INSERT INTO venta VALUES(743, 'Black Friday', 66)
-INSERT INTO venta VALUES(744, 'Halloween', 68)
-INSERT INTO venta VALUES(745, 'Año nuevo', 102)
-INSERT INTO venta VALUES(746, 'Halloween', 50)
-INSERT INTO venta VALUES(747, 'Black Friday', 22)
-INSERT INTO venta VALUES(748, 'Año nuevo', 77)
-INSERT INTO venta VALUES(749, 'Black Friday', 67)
-INSERT INTO venta VALUES(750, 'Halloween', 149)
-INSERT INTO venta VALUES(751, 'Año nuevo', 136)
-INSERT INTO venta VALUES(752, 'Sin IVA', 123)
-INSERT INTO venta VALUES(753, 'Sin IVA', 93)
-INSERT INTO venta VALUES(754, 'Navidad', 100)
-INSERT INTO venta VALUES(755, 'Año nuevo', 48)
-INSERT INTO venta VALUES(756, 'Sin IVA', 132)
-INSERT INTO venta VALUES(757, 'Escolar', 31)
-INSERT INTO venta VALUES(758, 'Navidad', 91)
-INSERT INTO venta VALUES(759, 'Halloween', 133)
-INSERT INTO venta VALUES(760, 'Navidad', 5)
-INSERT INTO venta VALUES(761, 'Año nuevo', 2)
-INSERT INTO venta VALUES(762, 'Black Friday', 68)
-INSERT INTO venta VALUES(763, 'Navidad', 6)
-INSERT INTO venta VALUES(764, 'Halloween', 150)
-INSERT INTO venta VALUES(765, 'Año nuevo', 61)
-INSERT INTO venta VALUES(766, 'San Valentin', 69)
-INSERT INTO venta VALUES(767, 'Halloween', 53)
-INSERT INTO venta VALUES(768, 'San Valentin', 131)
-INSERT INTO venta VALUES(769, 'Black Friday', 96)
-INSERT INTO venta VALUES(770, 'Navidad', 98)
-INSERT INTO venta VALUES(771, 'Navidad', 52)
-INSERT INTO venta VALUES(772, 'Navidad', 18)
-INSERT INTO venta VALUES(773, 'San Valentin', 11)
-INSERT INTO venta VALUES(774, 'Escolar', 18)
-INSERT INTO venta VALUES(775, 'Año nuevo', 128)
-INSERT INTO venta VALUES(776, 'Año nuevo', 114)
-INSERT INTO venta VALUES(777, 'Sin IVA', 75)
-INSERT INTO venta VALUES(778, 'Año nuevo', 104)
-INSERT INTO venta VALUES(779, 'Black Friday', 130)
-INSERT INTO venta VALUES(780, 'Navidad', 73)
-INSERT INTO venta VALUES(781, 'Año nuevo', 109)
-INSERT INTO venta VALUES(782, 'Navidad', 22)
-INSERT INTO venta VALUES(783, 'Año nuevo', 80)
-INSERT INTO venta VALUES(784, 'Black Friday', 70)
-INSERT INTO venta VALUES(785, 'Escolar', 39)
-INSERT INTO venta VALUES(786, 'Sin IVA', 25)
-INSERT INTO venta VALUES(787, 'San Valentin', 47)
-INSERT INTO venta VALUES(788, 'Navidad', 143)
-INSERT INTO venta VALUES(789, 'Navidad', 108)
-INSERT INTO venta VALUES(790, 'Sin IVA', 85)
-INSERT INTO venta VALUES(791, 'Black Friday', 33)
-INSERT INTO venta VALUES(792, 'Halloween', 135)
-INSERT INTO venta VALUES(793, 'Año nuevo', 59)
-INSERT INTO venta VALUES(794, 'Navidad', 29)
-INSERT INTO venta VALUES(795, 'Navidad', 21)
-INSERT INTO venta VALUES(796, 'Navidad', 140)
-INSERT INTO venta VALUES(797, 'Año nuevo', 140)
-INSERT INTO venta VALUES(798, 'Escolar', 18)
-INSERT INTO venta VALUES(799, 'Sin IVA', 148)
-INSERT INTO venta VALUES(800, 'San Valentin', 111)
+INSERT INTO venta VALUES(1, 'Sin IVA', 9);
+INSERT INTO venta VALUES(2, 'Escolar', 7);
+INSERT INTO venta VALUES(3, 'Black Friday', 26);
+INSERT INTO venta VALUES(4, 'Sin IVA', 31);
+INSERT INTO venta VALUES(5, 'Escolar', 69);
+INSERT INTO venta VALUES(6, 'San Valentin', 39);
+INSERT INTO venta VALUES(7, 'Navidad', 123);
+INSERT INTO venta VALUES(8, 'Año nuevo', 39);
+INSERT INTO venta VALUES(9, 'Año nuevo', 73);
+INSERT INTO venta VALUES(10, 'Sin IVA', 90);
+INSERT INTO venta VALUES(11, 'Navidad', 32);
+INSERT INTO venta VALUES(12, 'Navidad', 13);
+INSERT INTO venta VALUES(13, 'Navidad', 32);
+INSERT INTO venta VALUES(14, 'Año nuevo', 42);
+INSERT INTO venta VALUES(15, 'Halloween', 104);
+INSERT INTO venta VALUES(16, 'San Valentin', 30);
+INSERT INTO venta VALUES(17, 'Black Friday', 22);
+INSERT INTO venta VALUES(18, 'Escolar', 47);
+INSERT INTO venta VALUES(19, 'Sin IVA', 20);
+INSERT INTO venta VALUES(20, 'Año nuevo', 28);
+INSERT INTO venta VALUES(21, 'Año nuevo', 47);
+INSERT INTO venta VALUES(22, 'Escolar', 21);
+INSERT INTO venta VALUES(23, 'Halloween', 69);
+INSERT INTO venta VALUES(24, 'Navidad', 93);
+INSERT INTO venta VALUES(25, 'Año nuevo', 2);
+INSERT INTO venta VALUES(26, 'Navidad', 123);
+INSERT INTO venta VALUES(27, 'Año nuevo', 89);
+INSERT INTO venta VALUES(28, 'Navidad', 88);
+INSERT INTO venta VALUES(29, 'Black Friday', 141);
+INSERT INTO venta VALUES(30, 'Halloween', 10);
+INSERT INTO venta VALUES(31, 'Black Friday', 76);
+INSERT INTO venta VALUES(32, 'Halloween', 35);
+INSERT INTO venta VALUES(33, 'Black Friday', 87);
+INSERT INTO venta VALUES(34, 'Sin IVA', 85);
+INSERT INTO venta VALUES(35, 'Navidad', 127);
+INSERT INTO venta VALUES(36, 'San Valentin', 54);
+INSERT INTO venta VALUES(37, 'Año nuevo', 136);
+INSERT INTO venta VALUES(38, 'Navidad', 40);
+INSERT INTO venta VALUES(39, 'Black Friday', 102);
+INSERT INTO venta VALUES(40, 'Año nuevo', 78);
+INSERT INTO venta VALUES(41, 'Sin IVA', 138);
+INSERT INTO venta VALUES(42, 'Halloween', 141);
+INSERT INTO venta VALUES(43, 'San Valentin', 107);
+INSERT INTO venta VALUES(44, 'San Valentin', 35);
+INSERT INTO venta VALUES(45, 'Navidad', 28);
+INSERT INTO venta VALUES(46, 'Navidad', 44);
+INSERT INTO venta VALUES(47, 'San Valentin', 143);
+INSERT INTO venta VALUES(48, 'San Valentin', 95);
+INSERT INTO venta VALUES(49, 'Escolar', 33);
+INSERT INTO venta VALUES(50, 'Sin IVA', 80);
+INSERT INTO venta VALUES(51, 'Halloween', 67);
+INSERT INTO venta VALUES(52, 'Navidad', 113);
+INSERT INTO venta VALUES(53, 'Sin IVA', 29);
+INSERT INTO venta VALUES(54, 'Navidad', 105);
+INSERT INTO venta VALUES(55, 'Black Friday', 66);
+INSERT INTO venta VALUES(56, 'Halloween', 72);
+INSERT INTO venta VALUES(57, 'Navidad', 35);
+INSERT INTO venta VALUES(58, 'San Valentin', 20);
+INSERT INTO venta VALUES(59, 'Escolar', 94);
+INSERT INTO venta VALUES(60, 'Black Friday', 7);
+INSERT INTO venta VALUES(61, 'Sin IVA', 47);
+INSERT INTO venta VALUES(62, 'Escolar', 23);
+INSERT INTO venta VALUES(63, 'Halloween', 125);
+INSERT INTO venta VALUES(64, 'San Valentin', 20);
+INSERT INTO venta VALUES(65, 'Navidad', 33);
+INSERT INTO venta VALUES(66, 'Navidad', 140);
+INSERT INTO venta VALUES(67, 'Navidad', 3);
+INSERT INTO venta VALUES(68, 'Sin IVA', 99);
+INSERT INTO venta VALUES(69, 'Año nuevo', 77);
+INSERT INTO venta VALUES(70, 'Navidad', 78);
+INSERT INTO venta VALUES(71, 'Navidad', 104);
+INSERT INTO venta VALUES(72, 'Navidad', 98);
+INSERT INTO venta VALUES(73, 'Año nuevo', 28);
+INSERT INTO venta VALUES(74, 'Escolar', 43);
+INSERT INTO venta VALUES(75, 'Black Friday', 148);
+INSERT INTO venta VALUES(76, 'Navidad', 31);
+INSERT INTO venta VALUES(77, 'Año nuevo', 115);
+INSERT INTO venta VALUES(78, 'San Valentin', 32);
+INSERT INTO venta VALUES(79, 'Halloween', 43);
+INSERT INTO venta VALUES(80, 'Escolar', 24);
+INSERT INTO venta VALUES(81, 'Escolar', 118);
+INSERT INTO venta VALUES(82, 'San Valentin', 116);
+INSERT INTO venta VALUES(83, 'Escolar', 138);
+INSERT INTO venta VALUES(84, 'Sin IVA', 1);
+INSERT INTO venta VALUES(85, 'Escolar', 53);
+INSERT INTO venta VALUES(86, 'Año nuevo', 71);
+INSERT INTO venta VALUES(87, 'Escolar', 35);
+INSERT INTO venta VALUES(88, 'Escolar', 60);
+INSERT INTO venta VALUES(89, 'Navidad', 33);
+INSERT INTO venta VALUES(90, 'San Valentin', 5);
+INSERT INTO venta VALUES(91, 'Año nuevo', 145);
+INSERT INTO venta VALUES(92, 'Sin IVA', 97);
+INSERT INTO venta VALUES(93, 'Black Friday', 135);
+INSERT INTO venta VALUES(94, 'Sin IVA', 77);
+INSERT INTO venta VALUES(95, 'Black Friday', 40);
+INSERT INTO venta VALUES(96, 'Año nuevo', 22);
+INSERT INTO venta VALUES(97, 'Sin IVA', 88);
+INSERT INTO venta VALUES(98, 'Sin IVA', 51);
+INSERT INTO venta VALUES(99, 'Año nuevo', 94);
+INSERT INTO venta VALUES(100, 'Escolar', 89);
+INSERT INTO venta VALUES(101, 'Año nuevo', 49);
+INSERT INTO venta VALUES(102, 'Año nuevo', 16);
+INSERT INTO venta VALUES(103, 'Navidad', 43);
+INSERT INTO venta VALUES(104, 'Año nuevo', 118);
+INSERT INTO venta VALUES(105, 'San Valentin', 9);
+INSERT INTO venta VALUES(106, 'Navidad', 47);
+INSERT INTO venta VALUES(107, 'Sin IVA', 11);
+INSERT INTO venta VALUES(108, 'San Valentin', 76);
+INSERT INTO venta VALUES(109, 'Año nuevo', 38);
+INSERT INTO venta VALUES(110, 'Sin IVA', 15);
+INSERT INTO venta VALUES(111, 'Sin IVA', 113);
+INSERT INTO venta VALUES(112, 'Escolar', 51);
+INSERT INTO venta VALUES(113, 'Navidad', 74);
+INSERT INTO venta VALUES(114, 'Black Friday', 69);
+INSERT INTO venta VALUES(115, 'Escolar', 120);
+INSERT INTO venta VALUES(116, 'Halloween', 79);
+INSERT INTO venta VALUES(117, 'San Valentin', 86);
+INSERT INTO venta VALUES(118, 'Escolar', 63);
+INSERT INTO venta VALUES(119, 'Navidad', 8);
+INSERT INTO venta VALUES(120, 'Black Friday', 15);
+INSERT INTO venta VALUES(121, 'Sin IVA', 21);
+INSERT INTO venta VALUES(122, 'Navidad', 143);
+INSERT INTO venta VALUES(123, 'Escolar', 93);
+INSERT INTO venta VALUES(124, 'Sin IVA', 95);
+INSERT INTO venta VALUES(125, 'Navidad', 93);
+INSERT INTO venta VALUES(126, 'Año nuevo', 103);
+INSERT INTO venta VALUES(127, 'Navidad', 111);
+INSERT INTO venta VALUES(128, 'Escolar', 76);
+INSERT INTO venta VALUES(129, 'Sin IVA', 108);
+INSERT INTO venta VALUES(130, 'Black Friday', 38);
+INSERT INTO venta VALUES(131, 'Halloween', 130);
+INSERT INTO venta VALUES(132, 'Escolar', 15);
+INSERT INTO venta VALUES(133, 'Año nuevo', 146);
+INSERT INTO venta VALUES(134, 'Halloween', 101);
+INSERT INTO venta VALUES(135, 'Escolar', 100);
+INSERT INTO venta VALUES(136, 'San Valentin', 8);
+INSERT INTO venta VALUES(137, 'Escolar', 122);
+INSERT INTO venta VALUES(138, 'Black Friday', 111);
+INSERT INTO venta VALUES(139, 'Navidad', 79);
+INSERT INTO venta VALUES(140, 'Halloween', 65);
+INSERT INTO venta VALUES(141, 'Año nuevo', 27);
+INSERT INTO venta VALUES(142, 'Escolar', 23);
+INSERT INTO venta VALUES(143, 'Escolar', 131);
+INSERT INTO venta VALUES(144, 'San Valentin', 41);
+INSERT INTO venta VALUES(145, 'Halloween', 37);
+INSERT INTO venta VALUES(146, 'Escolar', 128);
+INSERT INTO venta VALUES(147, 'Halloween', 96);
+INSERT INTO venta VALUES(148, 'Escolar', 121);
+INSERT INTO venta VALUES(149, 'Navidad', 126);
+INSERT INTO venta VALUES(150, 'Black Friday', 106);
+INSERT INTO venta VALUES(151, 'Black Friday', 88);
+INSERT INTO venta VALUES(152, 'Halloween', 66);
+INSERT INTO venta VALUES(153, 'San Valentin', 12);
+INSERT INTO venta VALUES(154, 'Sin IVA', 67);
+INSERT INTO venta VALUES(155, 'Navidad', 63);
+INSERT INTO venta VALUES(156, 'Escolar', 39);
+INSERT INTO venta VALUES(157, 'Sin IVA', 16);
+INSERT INTO venta VALUES(158, 'Sin IVA', 34);
+INSERT INTO venta VALUES(159, 'Sin IVA', 101);
+INSERT INTO venta VALUES(160, 'Halloween', 127);
+INSERT INTO venta VALUES(161, 'Black Friday', 50);
+INSERT INTO venta VALUES(162, 'Sin IVA', 115);
+INSERT INTO venta VALUES(163, 'Black Friday', 128);
+INSERT INTO venta VALUES(164, 'Año nuevo', 114);
+INSERT INTO venta VALUES(165, 'San Valentin', 140);
+INSERT INTO venta VALUES(166, 'Halloween', 75);
+INSERT INTO venta VALUES(167, 'Halloween', 58);
+INSERT INTO venta VALUES(168, 'Halloween', 64);
+INSERT INTO venta VALUES(169, 'Año nuevo', 110);
+INSERT INTO venta VALUES(170, 'Halloween', 125);
+INSERT INTO venta VALUES(171, 'Escolar', 16);
+INSERT INTO venta VALUES(172, 'Sin IVA', 44);
+INSERT INTO venta VALUES(173, 'Sin IVA', 67);
+INSERT INTO venta VALUES(174, 'San Valentin', 102);
+INSERT INTO venta VALUES(175, 'Sin IVA', 120);
+INSERT INTO venta VALUES(176, 'Escolar', 74);
+INSERT INTO venta VALUES(177, 'Halloween', 36);
+INSERT INTO venta VALUES(178, 'Año nuevo', 77);
+INSERT INTO venta VALUES(179, 'Halloween', 125);
+INSERT INTO venta VALUES(180, 'Black Friday', 21);
+INSERT INTO venta VALUES(181, 'Halloween', 3);
+INSERT INTO venta VALUES(182, 'Navidad', 144);
+INSERT INTO venta VALUES(183, 'San Valentin', 8);
+INSERT INTO venta VALUES(184, 'Black Friday', 31);
+INSERT INTO venta VALUES(185, 'San Valentin', 121);
+INSERT INTO venta VALUES(186, 'Sin IVA', 63);
+INSERT INTO venta VALUES(187, 'Halloween', 17);
+INSERT INTO venta VALUES(188, 'Halloween', 78);
+INSERT INTO venta VALUES(189, 'Sin IVA', 73);
+INSERT INTO venta VALUES(190, 'Navidad', 129);
+INSERT INTO venta VALUES(191, 'Sin IVA', 146);
+INSERT INTO venta VALUES(192, 'Escolar', 72);
+INSERT INTO venta VALUES(193, 'Sin IVA', 22);
+INSERT INTO venta VALUES(194, 'Black Friday', 69);
+INSERT INTO venta VALUES(195, 'Navidad', 137);
+INSERT INTO venta VALUES(196, 'Escolar', 25);
+INSERT INTO venta VALUES(197, 'Año nuevo', 142);
+INSERT INTO venta VALUES(198, 'San Valentin', 27);
+INSERT INTO venta VALUES(199, 'Escolar', 85);
+INSERT INTO venta VALUES(200, 'Sin IVA', 72);
+INSERT INTO venta VALUES(201, 'Navidad', 138);
+INSERT INTO venta VALUES(202, 'Black Friday', 28);
+INSERT INTO venta VALUES(203, 'San Valentin', 68);
+INSERT INTO venta VALUES(204, 'Black Friday', 105);
+INSERT INTO venta VALUES(205, 'Halloween', 70);
+INSERT INTO venta VALUES(206, 'Año nuevo', 126);
+INSERT INTO venta VALUES(207, 'Halloween', 69);
+INSERT INTO venta VALUES(208, 'San Valentin', 127);
+INSERT INTO venta VALUES(209, 'San Valentin', 112);
+INSERT INTO venta VALUES(210, 'Escolar', 98);
+INSERT INTO venta VALUES(211, 'Black Friday', 130);
+INSERT INTO venta VALUES(212, 'Black Friday', 117);
+INSERT INTO venta VALUES(213, 'Navidad', 26);
+INSERT INTO venta VALUES(214, 'Año nuevo', 30);
+INSERT INTO venta VALUES(215, 'Halloween', 20);
+INSERT INTO venta VALUES(216, 'Halloween', 92);
+INSERT INTO venta VALUES(217, 'Escolar', 69);
+INSERT INTO venta VALUES(218, 'Navidad', 32);
+INSERT INTO venta VALUES(219, 'Escolar', 128);
+INSERT INTO venta VALUES(220, 'Año nuevo', 22);
+INSERT INTO venta VALUES(221, 'Sin IVA', 5);
+INSERT INTO venta VALUES(222, 'Black Friday', 150);
+INSERT INTO venta VALUES(223, 'San Valentin', 41);
+INSERT INTO venta VALUES(224, 'Sin IVA', 38);
+INSERT INTO venta VALUES(225, 'Año nuevo', 78);
+INSERT INTO venta VALUES(226, 'Halloween', 41);
+INSERT INTO venta VALUES(227, 'Black Friday', 54);
+INSERT INTO venta VALUES(228, 'Escolar', 45);
+INSERT INTO venta VALUES(229, 'San Valentin', 21);
+INSERT INTO venta VALUES(230, 'San Valentin', 145);
+INSERT INTO venta VALUES(231, 'Navidad', 106);
+INSERT INTO venta VALUES(232, 'Navidad', 2);
+INSERT INTO venta VALUES(233, 'Año nuevo', 26);
+INSERT INTO venta VALUES(234, 'Navidad', 30);
+INSERT INTO venta VALUES(235, 'Escolar', 75);
+INSERT INTO venta VALUES(236, 'Halloween', 79);
+INSERT INTO venta VALUES(237, 'Año nuevo', 72);
+INSERT INTO venta VALUES(238, 'Sin IVA', 140);
+INSERT INTO venta VALUES(239, 'Navidad', 61);
+INSERT INTO venta VALUES(240, 'Año nuevo', 49);
+INSERT INTO venta VALUES(241, 'Black Friday', 72);
+INSERT INTO venta VALUES(242, 'Año nuevo', 109);
+INSERT INTO venta VALUES(243, 'Navidad', 96);
+INSERT INTO venta VALUES(244, 'Sin IVA', 103);
+INSERT INTO venta VALUES(245, 'Escolar', 140);
+INSERT INTO venta VALUES(246, 'Navidad', 9);
+INSERT INTO venta VALUES(247, 'Navidad', 32);
+INSERT INTO venta VALUES(248, 'Escolar', 79);
+INSERT INTO venta VALUES(249, 'Sin IVA', 1);
+INSERT INTO venta VALUES(250, 'Escolar', 65);
+INSERT INTO venta VALUES(251, 'Sin IVA', 123);
+INSERT INTO venta VALUES(252, 'Sin IVA', 36);
+INSERT INTO venta VALUES(253, 'Black Friday', 83);
+INSERT INTO venta VALUES(254, 'San Valentin', 5);
+INSERT INTO venta VALUES(255, 'Black Friday', 93);
+INSERT INTO venta VALUES(256, 'Escolar', 71);
+INSERT INTO venta VALUES(257, 'Año nuevo', 58);
+INSERT INTO venta VALUES(258, 'Navidad', 77);
+INSERT INTO venta VALUES(259, 'Escolar', 60);
+INSERT INTO venta VALUES(260, 'Año nuevo', 69);
+INSERT INTO venta VALUES(261, 'Sin IVA', 17);
+INSERT INTO venta VALUES(262, 'Año nuevo', 65);
+INSERT INTO venta VALUES(263, 'Sin IVA', 18);
+INSERT INTO venta VALUES(264, 'Año nuevo', 60);
+INSERT INTO venta VALUES(265, 'San Valentin', 58);
+INSERT INTO venta VALUES(266, 'Black Friday', 52);
+INSERT INTO venta VALUES(267, 'Navidad', 145);
+INSERT INTO venta VALUES(268, 'Año nuevo', 38);
+INSERT INTO venta VALUES(269, 'Escolar', 69);
+INSERT INTO venta VALUES(270, 'Año nuevo', 107);
+INSERT INTO venta VALUES(271, 'San Valentin', 53);
+INSERT INTO venta VALUES(272, 'Black Friday', 140);
+INSERT INTO venta VALUES(273, 'Navidad', 83);
+INSERT INTO venta VALUES(274, 'Navidad', 142);
+INSERT INTO venta VALUES(275, 'Año nuevo', 16);
+INSERT INTO venta VALUES(276, 'Año nuevo', 37);
+INSERT INTO venta VALUES(277, 'Navidad', 68);
+INSERT INTO venta VALUES(278, 'Escolar', 23);
+INSERT INTO venta VALUES(279, 'San Valentin', 1);
+INSERT INTO venta VALUES(280, 'San Valentin', 110);
+INSERT INTO venta VALUES(281, 'Navidad', 91);
+INSERT INTO venta VALUES(282, 'Halloween', 41);
+INSERT INTO venta VALUES(283, 'Sin IVA', 121);
+INSERT INTO venta VALUES(284, 'San Valentin', 107);
+INSERT INTO venta VALUES(285, 'San Valentin', 49);
+INSERT INTO venta VALUES(286, 'Halloween', 36);
+INSERT INTO venta VALUES(287, 'San Valentin', 83);
+INSERT INTO venta VALUES(288, 'Sin IVA', 146);
+INSERT INTO venta VALUES(289, 'Navidad', 78);
+INSERT INTO venta VALUES(290, 'Black Friday', 101);
+INSERT INTO venta VALUES(291, 'San Valentin', 117);
+INSERT INTO venta VALUES(292, 'San Valentin', 70);
+INSERT INTO venta VALUES(293, 'Navidad', 88);
+INSERT INTO venta VALUES(294, 'Halloween', 142);
+INSERT INTO venta VALUES(295, 'Navidad', 80);
+INSERT INTO venta VALUES(296, 'Año nuevo', 86);
+INSERT INTO venta VALUES(297, 'San Valentin', 113);
+INSERT INTO venta VALUES(298, 'Escolar', 99);
+INSERT INTO venta VALUES(299, 'Sin IVA', 69);
+INSERT INTO venta VALUES(300, 'Navidad', 13);
+INSERT INTO venta VALUES(301, 'Sin IVA', 150);
+INSERT INTO venta VALUES(302, 'San Valentin', 23);
+INSERT INTO venta VALUES(303, 'Black Friday', 35);
+INSERT INTO venta VALUES(304, 'Navidad', 121);
+INSERT INTO venta VALUES(305, 'Halloween', 19);
+INSERT INTO venta VALUES(306, 'Black Friday', 10);
+INSERT INTO venta VALUES(307, 'Halloween', 98);
+INSERT INTO venta VALUES(308, 'Sin IVA', 107);
+INSERT INTO venta VALUES(309, 'Sin IVA', 13);
+INSERT INTO venta VALUES(310, 'Escolar', 52);
+INSERT INTO venta VALUES(311, 'Año nuevo', 2);
+INSERT INTO venta VALUES(312, 'Sin IVA', 49);
+INSERT INTO venta VALUES(313, 'Navidad', 123);
+INSERT INTO venta VALUES(314, 'Escolar', 33);
+INSERT INTO venta VALUES(315, 'Año nuevo', 19);
+INSERT INTO venta VALUES(316, 'Halloween', 136);
+INSERT INTO venta VALUES(317, 'Escolar', 64);
+INSERT INTO venta VALUES(318, 'Sin IVA', 19);
+INSERT INTO venta VALUES(319, 'Navidad', 7);
+INSERT INTO venta VALUES(320, 'Sin IVA', 91);
+INSERT INTO venta VALUES(321, 'Escolar', 60);
+INSERT INTO venta VALUES(322, 'Navidad', 141);
+INSERT INTO venta VALUES(323, 'Año nuevo', 75);
+INSERT INTO venta VALUES(324, 'Año nuevo', 53);
+INSERT INTO venta VALUES(325, 'Sin IVA', 66);
+INSERT INTO venta VALUES(326, 'Escolar', 53);
+INSERT INTO venta VALUES(327, 'Sin IVA', 16);
+INSERT INTO venta VALUES(328, 'Sin IVA', 135);
+INSERT INTO venta VALUES(329, 'Black Friday', 98);
+INSERT INTO venta VALUES(330, 'Escolar', 4);
+INSERT INTO venta VALUES(331, 'San Valentin', 55);
+INSERT INTO venta VALUES(332, 'Black Friday', 54);
+INSERT INTO venta VALUES(333, 'Halloween', 48);
+INSERT INTO venta VALUES(334, 'Navidad', 137);
+INSERT INTO venta VALUES(335, 'Navidad', 87);
+INSERT INTO venta VALUES(336, 'Escolar', 52);
+INSERT INTO venta VALUES(337, 'Black Friday', 66);
+INSERT INTO venta VALUES(338, 'San Valentin', 148);
+INSERT INTO venta VALUES(339, 'Black Friday', 34);
+INSERT INTO venta VALUES(340, 'Navidad', 126);
+INSERT INTO venta VALUES(341, 'Escolar', 1);
+INSERT INTO venta VALUES(342, 'Año nuevo', 128);
+INSERT INTO venta VALUES(343, 'Sin IVA', 67);
+INSERT INTO venta VALUES(344, 'Sin IVA', 131);
+INSERT INTO venta VALUES(345, 'San Valentin', 91);
+INSERT INTO venta VALUES(346, 'Navidad', 143);
+INSERT INTO venta VALUES(347, 'Escolar', 62);
+INSERT INTO venta VALUES(348, 'Año nuevo', 121);
+INSERT INTO venta VALUES(349, 'Año nuevo', 16);
+INSERT INTO venta VALUES(350, 'San Valentin', 37);
+INSERT INTO venta VALUES(351, 'Año nuevo', 119);
+INSERT INTO venta VALUES(352, 'Black Friday', 2);
+INSERT INTO venta VALUES(353, 'Navidad', 34);
+INSERT INTO venta VALUES(354, 'Año nuevo', 108);
+INSERT INTO venta VALUES(355, 'Escolar', 119);
+INSERT INTO venta VALUES(356, 'Navidad', 125);
+INSERT INTO venta VALUES(357, 'Sin IVA', 16);
+INSERT INTO venta VALUES(358, 'Navidad', 76);
+INSERT INTO venta VALUES(359, 'Black Friday', 21);
+INSERT INTO venta VALUES(360, 'Escolar', 29);
+INSERT INTO venta VALUES(361, 'San Valentin', 118);
+INSERT INTO venta VALUES(362, 'Sin IVA', 121);
+INSERT INTO venta VALUES(363, 'Black Friday', 56);
+INSERT INTO venta VALUES(364, 'Año nuevo', 105);
+INSERT INTO venta VALUES(365, 'San Valentin', 24);
+INSERT INTO venta VALUES(366, 'Navidad', 90);
+INSERT INTO venta VALUES(367, 'Año nuevo', 7);
+INSERT INTO venta VALUES(368, 'San Valentin', 58);
+INSERT INTO venta VALUES(369, 'Halloween', 52);
+INSERT INTO venta VALUES(370, 'Año nuevo', 138);
+INSERT INTO venta VALUES(371, 'San Valentin', 93);
+INSERT INTO venta VALUES(372, 'Halloween', 94);
+INSERT INTO venta VALUES(373, 'Black Friday', 100);
+INSERT INTO venta VALUES(374, 'Año nuevo', 18);
+INSERT INTO venta VALUES(375, 'Halloween', 89);
+INSERT INTO venta VALUES(376, 'Año nuevo', 26);
+INSERT INTO venta VALUES(377, 'Año nuevo', 132);
+INSERT INTO venta VALUES(378, 'Escolar', 88);
+INSERT INTO venta VALUES(379, 'Halloween', 6);
+INSERT INTO venta VALUES(380, 'Black Friday', 69);
+INSERT INTO venta VALUES(381, 'Halloween', 116);
+INSERT INTO venta VALUES(382, 'Black Friday', 118);
+INSERT INTO venta VALUES(383, 'Black Friday', 131);
+INSERT INTO venta VALUES(384, 'Halloween', 21);
+INSERT INTO venta VALUES(385, 'Escolar', 112);
+INSERT INTO venta VALUES(386, 'Año nuevo', 116);
+INSERT INTO venta VALUES(387, 'San Valentin', 63);
+INSERT INTO venta VALUES(388, 'Halloween', 75);
+INSERT INTO venta VALUES(389, 'San Valentin', 102);
+INSERT INTO venta VALUES(390, 'Navidad', 31);
+INSERT INTO venta VALUES(391, 'Navidad', 5);
+INSERT INTO venta VALUES(392, 'Black Friday', 122);
+INSERT INTO venta VALUES(393, 'Escolar', 96);
+INSERT INTO venta VALUES(394, 'Sin IVA', 43);
+INSERT INTO venta VALUES(395, 'San Valentin', 128);
+INSERT INTO venta VALUES(396, 'Escolar', 101);
+INSERT INTO venta VALUES(397, 'Navidad', 124);
+INSERT INTO venta VALUES(398, 'Halloween', 81);
+INSERT INTO venta VALUES(399, 'Black Friday', 57);
+INSERT INTO venta VALUES(400, 'San Valentin', 96);
+INSERT INTO venta VALUES(401, 'Navidad', 80);
+INSERT INTO venta VALUES(402, 'Halloween', 41);
+INSERT INTO venta VALUES(403, 'Escolar', 47);
+INSERT INTO venta VALUES(404, 'Sin IVA', 82);
+INSERT INTO venta VALUES(405, 'Año nuevo', 79);
+INSERT INTO venta VALUES(406, 'Navidad', 10);
+INSERT INTO venta VALUES(407, 'Año nuevo', 97);
+INSERT INTO venta VALUES(408, 'Navidad', 88);
+INSERT INTO venta VALUES(409, 'Escolar', 93);
+INSERT INTO venta VALUES(410, 'Navidad', 26);
+INSERT INTO venta VALUES(411, 'Black Friday', 149);
+INSERT INTO venta VALUES(412, 'Año nuevo', 122);
+INSERT INTO venta VALUES(413, 'Escolar', 101);
+INSERT INTO venta VALUES(414, 'Escolar', 52);
+INSERT INTO venta VALUES(415, 'Escolar', 20);
+INSERT INTO venta VALUES(416, 'Escolar', 128);
+INSERT INTO venta VALUES(417, 'San Valentin', 124);
+INSERT INTO venta VALUES(418, 'Año nuevo', 52);
+INSERT INTO venta VALUES(419, 'San Valentin', 120);
+INSERT INTO venta VALUES(420, 'Halloween', 96);
+INSERT INTO venta VALUES(421, 'Escolar', 34);
+INSERT INTO venta VALUES(422, 'Año nuevo', 42);
+INSERT INTO venta VALUES(423, 'Sin IVA', 110);
+INSERT INTO venta VALUES(424, 'Año nuevo', 58);
+INSERT INTO venta VALUES(425, 'Sin IVA', 34);
+INSERT INTO venta VALUES(426, 'Sin IVA', 100);
+INSERT INTO venta VALUES(427, 'Sin IVA', 56);
+INSERT INTO venta VALUES(428, 'Escolar', 49);
+INSERT INTO venta VALUES(429, 'Halloween', 29);
+INSERT INTO venta VALUES(430, 'Black Friday', 90);
+INSERT INTO venta VALUES(431, 'Escolar', 58);
+INSERT INTO venta VALUES(432, 'San Valentin', 29);
+INSERT INTO venta VALUES(433, 'San Valentin', 104);
+INSERT INTO venta VALUES(434, 'Sin IVA', 20);
+INSERT INTO venta VALUES(435, 'Escolar', 16);
+INSERT INTO venta VALUES(436, 'Año nuevo', 91);
+INSERT INTO venta VALUES(437, 'Navidad', 46);
+INSERT INTO venta VALUES(438, 'Black Friday', 60);
+INSERT INTO venta VALUES(439, 'San Valentin', 40);
+INSERT INTO venta VALUES(440, 'Año nuevo', 139);
+INSERT INTO venta VALUES(441, 'Año nuevo', 38);
+INSERT INTO venta VALUES(442, 'Halloween', 40);
+INSERT INTO venta VALUES(443, 'Año nuevo', 150);
+INSERT INTO venta VALUES(444, 'Navidad', 51);
+INSERT INTO venta VALUES(445, 'Navidad', 22);
+INSERT INTO venta VALUES(446, 'Black Friday', 29);
+INSERT INTO venta VALUES(447, 'Black Friday', 62);
+INSERT INTO venta VALUES(448, 'Año nuevo', 15);
+INSERT INTO venta VALUES(449, 'Halloween', 41);
+INSERT INTO venta VALUES(450, 'Black Friday', 64);
+INSERT INTO venta VALUES(451, 'Sin IVA', 1);
+INSERT INTO venta VALUES(452, 'Black Friday', 11);
+INSERT INTO venta VALUES(453, 'Black Friday', 138);
+INSERT INTO venta VALUES(454, 'Navidad', 41);
+INSERT INTO venta VALUES(455, 'Navidad', 98);
+INSERT INTO venta VALUES(456, 'Black Friday', 69);
+INSERT INTO venta VALUES(457, 'Escolar', 94);
+INSERT INTO venta VALUES(458, 'Black Friday', 106);
+INSERT INTO venta VALUES(459, 'Año nuevo', 146);
+INSERT INTO venta VALUES(460, 'Sin IVA', 12);
+INSERT INTO venta VALUES(461, 'Año nuevo', 102);
+INSERT INTO venta VALUES(462, 'Black Friday', 87);
+INSERT INTO venta VALUES(463, 'Sin IVA', 128);
+INSERT INTO venta VALUES(464, 'Año nuevo', 142);
+INSERT INTO venta VALUES(465, 'San Valentin', 50);
+INSERT INTO venta VALUES(466, 'Año nuevo', 76);
+INSERT INTO venta VALUES(467, 'Escolar', 48);
+INSERT INTO venta VALUES(468, 'Black Friday', 103);
+INSERT INTO venta VALUES(469, 'San Valentin', 74);
+INSERT INTO venta VALUES(470, 'Halloween', 91);
+INSERT INTO venta VALUES(471, 'Escolar', 39);
+INSERT INTO venta VALUES(472, 'Escolar', 78);
+INSERT INTO venta VALUES(473, 'Black Friday', 134);
+INSERT INTO venta VALUES(474, 'Sin IVA', 26);
+INSERT INTO venta VALUES(475, 'Black Friday', 120);
+INSERT INTO venta VALUES(476, 'Navidad', 62);
+INSERT INTO venta VALUES(477, 'Escolar', 53);
+INSERT INTO venta VALUES(478, 'Navidad', 35);
+INSERT INTO venta VALUES(479, 'Escolar', 147);
+INSERT INTO venta VALUES(480, 'Navidad', 84);
+INSERT INTO venta VALUES(481, 'Sin IVA', 82);
+INSERT INTO venta VALUES(482, 'Año nuevo', 3);
+INSERT INTO venta VALUES(483, 'Halloween', 60);
+INSERT INTO venta VALUES(484, 'Black Friday', 142);
+INSERT INTO venta VALUES(485, 'Halloween', 12);
+INSERT INTO venta VALUES(486, 'Navidad', 18);
+INSERT INTO venta VALUES(487, 'Escolar', 131);
+INSERT INTO venta VALUES(488, 'Navidad', 10);
+INSERT INTO venta VALUES(489, 'Halloween', 149);
+INSERT INTO venta VALUES(490, 'Navidad', 106);
+INSERT INTO venta VALUES(491, 'Sin IVA', 37);
+INSERT INTO venta VALUES(492, 'San Valentin', 79);
+INSERT INTO venta VALUES(493, 'Navidad', 141);
+INSERT INTO venta VALUES(494, 'Año nuevo', 89);
+INSERT INTO venta VALUES(495, 'Black Friday', 125);
+INSERT INTO venta VALUES(496, 'Escolar', 50);
+INSERT INTO venta VALUES(497, 'San Valentin', 146);
+INSERT INTO venta VALUES(498, 'Año nuevo', 87);
+INSERT INTO venta VALUES(499, 'San Valentin', 19);
+INSERT INTO venta VALUES(500, 'Escolar', 92);
+INSERT INTO venta VALUES(501, 'San Valentin', 56);
+INSERT INTO venta VALUES(502, 'Escolar', 121);
+INSERT INTO venta VALUES(503, 'Halloween', 103);
+INSERT INTO venta VALUES(504, 'Black Friday', 146);
+INSERT INTO venta VALUES(505, 'Sin IVA', 48);
+INSERT INTO venta VALUES(506, 'Navidad', 113);
+INSERT INTO venta VALUES(507, 'Halloween', 48);
+INSERT INTO venta VALUES(508, 'Navidad', 22);
+INSERT INTO venta VALUES(509, 'Black Friday', 59);
+INSERT INTO venta VALUES(510, 'Black Friday', 2);
+INSERT INTO venta VALUES(511, 'San Valentin', 11);
+INSERT INTO venta VALUES(512, 'San Valentin', 75);
+INSERT INTO venta VALUES(513, 'San Valentin', 21);
+INSERT INTO venta VALUES(514, 'Black Friday', 30);
+INSERT INTO venta VALUES(515, 'Black Friday', 103);
+INSERT INTO venta VALUES(516, 'Navidad', 89);
+INSERT INTO venta VALUES(517, 'Halloween', 132);
+INSERT INTO venta VALUES(518, 'Black Friday', 143);
+INSERT INTO venta VALUES(519, 'Navidad', 139);
+INSERT INTO venta VALUES(520, 'Navidad', 119);
+INSERT INTO venta VALUES(521, 'Halloween', 24);
+INSERT INTO venta VALUES(522, 'Escolar', 84);
+INSERT INTO venta VALUES(523, 'Navidad', 58);
+INSERT INTO venta VALUES(524, 'Black Friday', 121);
+INSERT INTO venta VALUES(525, 'Black Friday', 128);
+INSERT INTO venta VALUES(526, 'Navidad', 146);
+INSERT INTO venta VALUES(527, 'Escolar', 60);
+INSERT INTO venta VALUES(528, 'Black Friday', 148);
+INSERT INTO venta VALUES(529, 'Escolar', 117);
+INSERT INTO venta VALUES(530, 'San Valentin', 126);
+INSERT INTO venta VALUES(531, 'Black Friday', 32);
+INSERT INTO venta VALUES(532, 'Año nuevo', 7);
+INSERT INTO venta VALUES(533, 'Sin IVA', 138);
+INSERT INTO venta VALUES(534, 'Halloween', 2);
+INSERT INTO venta VALUES(535, 'Black Friday', 110);
+INSERT INTO venta VALUES(536, 'Halloween', 66);
+INSERT INTO venta VALUES(537, 'Black Friday', 30);
+INSERT INTO venta VALUES(538, 'Navidad', 20);
+INSERT INTO venta VALUES(539, 'Año nuevo', 86);
+INSERT INTO venta VALUES(540, 'Escolar', 123);
+INSERT INTO venta VALUES(541, 'Sin IVA', 114);
+INSERT INTO venta VALUES(542, 'Año nuevo', 110);
+INSERT INTO venta VALUES(543, 'San Valentin', 26);
+INSERT INTO venta VALUES(544, 'Halloween', 18);
+INSERT INTO venta VALUES(545, 'Año nuevo', 105);
+INSERT INTO venta VALUES(546, 'Navidad', 57);
+INSERT INTO venta VALUES(547, 'Black Friday', 24);
+INSERT INTO venta VALUES(548, 'Año nuevo', 19);
+INSERT INTO venta VALUES(549, 'Sin IVA', 62);
+INSERT INTO venta VALUES(550, 'Año nuevo', 89);
+INSERT INTO venta VALUES(551, 'Sin IVA', 134);
+INSERT INTO venta VALUES(552, 'Navidad', 137);
+INSERT INTO venta VALUES(553, 'Año nuevo', 85);
+INSERT INTO venta VALUES(554, 'Escolar', 49);
+INSERT INTO venta VALUES(555, 'Escolar', 60);
+INSERT INTO venta VALUES(556, 'Halloween', 41);
+INSERT INTO venta VALUES(557, 'Navidad', 41);
+INSERT INTO venta VALUES(558, 'Halloween', 82);
+INSERT INTO venta VALUES(559, 'San Valentin', 89);
+INSERT INTO venta VALUES(560, 'Año nuevo', 36);
+INSERT INTO venta VALUES(561, 'Sin IVA', 96);
+INSERT INTO venta VALUES(562, 'Halloween', 96);
+INSERT INTO venta VALUES(563, 'Black Friday', 94);
+INSERT INTO venta VALUES(564, 'Halloween', 61);
+INSERT INTO venta VALUES(565, 'Halloween', 59);
+INSERT INTO venta VALUES(566, 'Escolar', 115);
+INSERT INTO venta VALUES(567, 'Sin IVA', 34);
+INSERT INTO venta VALUES(568, 'Navidad', 83);
+INSERT INTO venta VALUES(569, 'Sin IVA', 41);
+INSERT INTO venta VALUES(570, 'Black Friday', 29);
+INSERT INTO venta VALUES(571, 'Sin IVA', 118);
+INSERT INTO venta VALUES(572, 'Halloween', 144);
+INSERT INTO venta VALUES(573, 'Black Friday', 73);
+INSERT INTO venta VALUES(574, 'Navidad', 127);
+INSERT INTO venta VALUES(575, 'Black Friday', 66);
+INSERT INTO venta VALUES(576, 'Año nuevo', 17);
+INSERT INTO venta VALUES(577, 'Sin IVA', 1);
+INSERT INTO venta VALUES(578, 'Black Friday', 95);
+INSERT INTO venta VALUES(579, 'Halloween', 131);
+INSERT INTO venta VALUES(580, 'Halloween', 132);
+INSERT INTO venta VALUES(581, 'Sin IVA', 81);
+INSERT INTO venta VALUES(582, 'Año nuevo', 25);
+INSERT INTO venta VALUES(583, 'Sin IVA', 51);
+INSERT INTO venta VALUES(584, 'Halloween', 26);
+INSERT INTO venta VALUES(585, 'Halloween', 142);
+INSERT INTO venta VALUES(586, 'Black Friday', 141);
+INSERT INTO venta VALUES(587, 'Escolar', 50);
+INSERT INTO venta VALUES(588, 'Black Friday', 65);
+INSERT INTO venta VALUES(589, 'Halloween', 136);
+INSERT INTO venta VALUES(590, 'Sin IVA', 76);
+INSERT INTO venta VALUES(591, 'Black Friday', 69);
+INSERT INTO venta VALUES(592, 'Escolar', 22);
+INSERT INTO venta VALUES(593, 'Sin IVA', 147);
+INSERT INTO venta VALUES(594, 'Sin IVA', 145);
+INSERT INTO venta VALUES(595, 'San Valentin', 4);
+INSERT INTO venta VALUES(596, 'Año nuevo', 10);
+INSERT INTO venta VALUES(597, 'Escolar', 144);
+INSERT INTO venta VALUES(598, 'Halloween', 55);
+INSERT INTO venta VALUES(599, 'Año nuevo', 55);
+INSERT INTO venta VALUES(600, 'Sin IVA', 74);
+INSERT INTO venta VALUES(601, 'Escolar', 119);
+INSERT INTO venta VALUES(602, 'Black Friday', 82);
+INSERT INTO venta VALUES(603, 'Sin IVA', 19);
+INSERT INTO venta VALUES(604, 'Sin IVA', 80);
+INSERT INTO venta VALUES(605, 'Halloween', 65);
+INSERT INTO venta VALUES(606, 'Año nuevo', 33);
+INSERT INTO venta VALUES(607, 'Black Friday', 144);
+INSERT INTO venta VALUES(608, 'Sin IVA', 149);
+INSERT INTO venta VALUES(609, 'San Valentin', 8);
+INSERT INTO venta VALUES(610, 'Halloween', 63);
+INSERT INTO venta VALUES(611, 'Navidad', 17);
+INSERT INTO venta VALUES(612, 'Año nuevo', 9);
+INSERT INTO venta VALUES(613, 'Escolar', 76);
+INSERT INTO venta VALUES(614, 'Halloween', 72);
+INSERT INTO venta VALUES(615, 'Navidad', 120);
+INSERT INTO venta VALUES(616, 'Escolar', 20);
+INSERT INTO venta VALUES(617, 'Año nuevo', 65);
+INSERT INTO venta VALUES(618, 'Black Friday', 57);
+INSERT INTO venta VALUES(619, 'Escolar', 133);
+INSERT INTO venta VALUES(620, 'Navidad', 93);
+INSERT INTO venta VALUES(621, 'Black Friday', 9);
+INSERT INTO venta VALUES(622, 'San Valentin', 24);
+INSERT INTO venta VALUES(623, 'Escolar', 16);
+INSERT INTO venta VALUES(624, 'Halloween', 88);
+INSERT INTO venta VALUES(625, 'Año nuevo', 96);
+INSERT INTO venta VALUES(626, 'Halloween', 102);
+INSERT INTO venta VALUES(627, 'Navidad', 27);
+INSERT INTO venta VALUES(628, 'Escolar', 122);
+INSERT INTO venta VALUES(629, 'Halloween', 113);
+INSERT INTO venta VALUES(630, 'Navidad', 36);
+INSERT INTO venta VALUES(631, 'Halloween', 121);
+INSERT INTO venta VALUES(632, 'Black Friday', 119);
+INSERT INTO venta VALUES(633, 'Black Friday', 3);
+INSERT INTO venta VALUES(634, 'Escolar', 39);
+INSERT INTO venta VALUES(635, 'Halloween', 110);
+INSERT INTO venta VALUES(636, 'Black Friday', 70);
+INSERT INTO venta VALUES(637, 'Black Friday', 134);
+INSERT INTO venta VALUES(638, 'Escolar', 35);
+INSERT INTO venta VALUES(639, 'Escolar', 9);
+INSERT INTO venta VALUES(640, 'Año nuevo', 22);
+INSERT INTO venta VALUES(641, 'Año nuevo', 81);
+INSERT INTO venta VALUES(642, 'Sin IVA', 90);
+INSERT INTO venta VALUES(643, 'Black Friday', 132);
+INSERT INTO venta VALUES(644, 'Halloween', 68);
+INSERT INTO venta VALUES(645, 'San Valentin', 55);
+INSERT INTO venta VALUES(646, 'Black Friday', 113);
+INSERT INTO venta VALUES(647, 'Black Friday', 101);
+INSERT INTO venta VALUES(648, 'Navidad', 48);
+INSERT INTO venta VALUES(649, 'Halloween', 115);
+INSERT INTO venta VALUES(650, 'Escolar', 5);
+INSERT INTO venta VALUES(651, 'Año nuevo', 20);
+INSERT INTO venta VALUES(652, 'Navidad', 31);
+INSERT INTO venta VALUES(653, 'Halloween', 101);
+INSERT INTO venta VALUES(654, 'San Valentin', 82);
+INSERT INTO venta VALUES(655, 'Navidad', 28);
+INSERT INTO venta VALUES(656, 'San Valentin', 84);
+INSERT INTO venta VALUES(657, 'Halloween', 31);
+INSERT INTO venta VALUES(658, 'Escolar', 15);
+INSERT INTO venta VALUES(659, 'San Valentin', 127);
+INSERT INTO venta VALUES(660, 'Navidad', 44);
+INSERT INTO venta VALUES(661, 'Año nuevo', 11);
+INSERT INTO venta VALUES(662, 'Navidad', 71);
+INSERT INTO venta VALUES(663, 'Navidad', 49);
+INSERT INTO venta VALUES(664, 'San Valentin', 120);
+INSERT INTO venta VALUES(665, 'Halloween', 4);
+INSERT INTO venta VALUES(666, 'Halloween', 52);
+INSERT INTO venta VALUES(667, 'Año nuevo', 3);
+INSERT INTO venta VALUES(668, 'Black Friday', 90);
+INSERT INTO venta VALUES(669, 'San Valentin', 101);
+INSERT INTO venta VALUES(670, 'Año nuevo', 51);
+INSERT INTO venta VALUES(671, 'San Valentin', 73);
+INSERT INTO venta VALUES(672, 'Sin IVA', 134);
+INSERT INTO venta VALUES(673, 'Sin IVA', 71);
+INSERT INTO venta VALUES(674, 'Sin IVA', 141);
+INSERT INTO venta VALUES(675, 'Halloween', 16);
+INSERT INTO venta VALUES(676, 'Año nuevo', 23);
+INSERT INTO venta VALUES(677, 'San Valentin', 16);
+INSERT INTO venta VALUES(678, 'Halloween', 92);
+INSERT INTO venta VALUES(679, 'Año nuevo', 124);
+INSERT INTO venta VALUES(680, 'Escolar', 71);
+INSERT INTO venta VALUES(681, 'Navidad', 148);
+INSERT INTO venta VALUES(682, 'Escolar', 145);
+INSERT INTO venta VALUES(683, 'Año nuevo', 123);
+INSERT INTO venta VALUES(684, 'Escolar', 22);
+INSERT INTO venta VALUES(685, 'Año nuevo', 33);
+INSERT INTO venta VALUES(686, 'Año nuevo', 124);
+INSERT INTO venta VALUES(687, 'Sin IVA', 63);
+INSERT INTO venta VALUES(688, 'Año nuevo', 84);
+INSERT INTO venta VALUES(689, 'Navidad', 109);
+INSERT INTO venta VALUES(690, 'San Valentin', 109);
+INSERT INTO venta VALUES(691, 'Escolar', 128);
+INSERT INTO venta VALUES(692, 'Sin IVA', 9);
+INSERT INTO venta VALUES(693, 'San Valentin', 10);
+INSERT INTO venta VALUES(694, 'Halloween', 61);
+INSERT INTO venta VALUES(695, 'Sin IVA', 147);
+INSERT INTO venta VALUES(696, 'Navidad', 104);
+INSERT INTO venta VALUES(697, 'Halloween', 147);
+INSERT INTO venta VALUES(698, 'San Valentin', 137);
+INSERT INTO venta VALUES(699, 'Navidad', 13);
+INSERT INTO venta VALUES(700, 'Escolar', 109);
+INSERT INTO venta VALUES(701, 'Halloween', 11);
+INSERT INTO venta VALUES(702, 'Halloween', 47);
+INSERT INTO venta VALUES(703, 'Black Friday', 35);
+INSERT INTO venta VALUES(704, 'Halloween', 115);
+INSERT INTO venta VALUES(705, 'Sin IVA', 42);
+INSERT INTO venta VALUES(706, 'Halloween', 49);
+INSERT INTO venta VALUES(707, 'Sin IVA', 16);
+INSERT INTO venta VALUES(708, 'Halloween', 133);
+INSERT INTO venta VALUES(709, 'Sin IVA', 52);
+INSERT INTO venta VALUES(710, 'Black Friday', 16);
+INSERT INTO venta VALUES(711, 'Año nuevo', 70);
+INSERT INTO venta VALUES(712, 'Navidad', 51);
+INSERT INTO venta VALUES(713, 'Sin IVA', 13);
+INSERT INTO venta VALUES(714, 'San Valentin', 56);
+INSERT INTO venta VALUES(715, 'Navidad', 54);
+INSERT INTO venta VALUES(716, 'Escolar', 127);
+INSERT INTO venta VALUES(717, 'Navidad', 83);
+INSERT INTO venta VALUES(718, 'Navidad', 44);
+INSERT INTO venta VALUES(719, 'Black Friday', 46);
+INSERT INTO venta VALUES(720, 'Escolar', 70);
+INSERT INTO venta VALUES(721, 'Escolar', 70);
+INSERT INTO venta VALUES(722, 'San Valentin', 5);
+INSERT INTO venta VALUES(723, 'Sin IVA', 65);
+INSERT INTO venta VALUES(724, 'Navidad', 71);
+INSERT INTO venta VALUES(725, 'San Valentin', 36);
+INSERT INTO venta VALUES(726, 'Año nuevo', 54);
+INSERT INTO venta VALUES(727, 'Sin IVA', 47);
+INSERT INTO venta VALUES(728, 'Navidad', 72);
+INSERT INTO venta VALUES(729, 'Navidad', 31);
+INSERT INTO venta VALUES(730, 'Año nuevo', 11);
+INSERT INTO venta VALUES(731, 'Halloween', 39);
+INSERT INTO venta VALUES(732, 'Sin IVA', 18);
+INSERT INTO venta VALUES(733, 'Navidad', 141);
+INSERT INTO venta VALUES(734, 'Black Friday', 21);
+INSERT INTO venta VALUES(735, 'Halloween', 116);
+INSERT INTO venta VALUES(736, 'Navidad', 116);
+INSERT INTO venta VALUES(737, 'Año nuevo', 11);
+INSERT INTO venta VALUES(738, 'Sin IVA', 93);
+INSERT INTO venta VALUES(739, 'Black Friday', 41);
+INSERT INTO venta VALUES(740, 'Año nuevo', 142);
+INSERT INTO venta VALUES(741, 'Black Friday', 107);
+INSERT INTO venta VALUES(742, 'Halloween', 100);
+INSERT INTO venta VALUES(743, 'Halloween', 125);
+INSERT INTO venta VALUES(744, 'Black Friday', 137);
+INSERT INTO venta VALUES(745, 'Halloween', 101);
+INSERT INTO venta VALUES(746, 'Sin IVA', 127);
+INSERT INTO venta VALUES(747, 'Black Friday', 113);
+INSERT INTO venta VALUES(748, 'Black Friday', 45);
+INSERT INTO venta VALUES(749, 'Sin IVA', 75);
+INSERT INTO venta VALUES(750, 'Halloween', 121);
+INSERT INTO venta VALUES(751, 'Halloween', 91);
+INSERT INTO venta VALUES(752, 'Escolar', 2);
+INSERT INTO venta VALUES(753, 'Sin IVA', 30);
+INSERT INTO venta VALUES(754, 'Halloween', 16);
+INSERT INTO venta VALUES(755, 'Sin IVA', 114);
+INSERT INTO venta VALUES(756, 'Black Friday', 56);
+INSERT INTO venta VALUES(757, 'Año nuevo', 10);
+INSERT INTO venta VALUES(758, 'San Valentin', 36);
+INSERT INTO venta VALUES(759, 'Halloween', 78);
+INSERT INTO venta VALUES(760, 'Escolar', 84);
+INSERT INTO venta VALUES(761, 'Escolar', 23);
+INSERT INTO venta VALUES(762, 'Navidad', 97);
+INSERT INTO venta VALUES(763, 'Black Friday', 62);
+INSERT INTO venta VALUES(764, 'Sin IVA', 70);
+INSERT INTO venta VALUES(765, 'Halloween', 37);
+INSERT INTO venta VALUES(766, 'San Valentin', 55);
+INSERT INTO venta VALUES(767, 'Año nuevo', 95);
+INSERT INTO venta VALUES(768, 'San Valentin', 36);
+INSERT INTO venta VALUES(769, 'Escolar', 116);
+INSERT INTO venta VALUES(770, 'Halloween', 125);
+INSERT INTO venta VALUES(771, 'Escolar', 69);
+INSERT INTO venta VALUES(772, 'Halloween', 101);
+INSERT INTO venta VALUES(773, 'San Valentin', 35);
+INSERT INTO venta VALUES(774, 'Sin IVA', 50);
+INSERT INTO venta VALUES(775, 'Año nuevo', 63);
+INSERT INTO venta VALUES(776, 'Sin IVA', 87);
+INSERT INTO venta VALUES(777, 'Año nuevo', 91);
+INSERT INTO venta VALUES(778, 'San Valentin', 96);
+INSERT INTO venta VALUES(779, 'Navidad', 120);
+INSERT INTO venta VALUES(780, 'Sin IVA', 146);
+INSERT INTO venta VALUES(781, 'Sin IVA', 28);
+INSERT INTO venta VALUES(782, 'Sin IVA', 28);
+INSERT INTO venta VALUES(783, 'Navidad', 144);
+INSERT INTO venta VALUES(784, 'Black Friday', 103);
+INSERT INTO venta VALUES(785, 'Halloween', 57);
+INSERT INTO venta VALUES(786, 'Sin IVA', 58);
+INSERT INTO venta VALUES(787, 'Sin IVA', 88);
+INSERT INTO venta VALUES(788, 'Halloween', 118);
+INSERT INTO venta VALUES(789, 'Sin IVA', 129);
+INSERT INTO venta VALUES(790, 'Black Friday', 66);
+INSERT INTO venta VALUES(791, 'Año nuevo', 81);
+INSERT INTO venta VALUES(792, 'Sin IVA', 55);
+INSERT INTO venta VALUES(793, 'Sin IVA', 22);
+INSERT INTO venta VALUES(794, 'Halloween', 109);
+INSERT INTO venta VALUES(795, 'Halloween', 48);
+INSERT INTO venta VALUES(796, 'Año nuevo', 148);
+INSERT INTO venta VALUES(797, 'Escolar', 15);
+INSERT INTO venta VALUES(798, 'Escolar', 14);
+INSERT INTO venta VALUES(799, 'Sin IVA', 21);
+INSERT INTO venta VALUES(800, 'Escolar', 72);

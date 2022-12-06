@@ -22,7 +22,7 @@ def creaClientes(numCli):
         gen = random.randint(0,2)
         #Aleatorio edad
         edad = random.randint(18,80)
-        file.write("INSERT INTO cliente VALUES("+str(i)+", '"+str(muniList[munRand])+"', '"+str(genList[gen])+"', "+str(edad)+")"+ os.linesep)
+        file.write("INSERT INTO cliente VALUES("+str(i)+", '"+str(muniList[munRand])+"', '"+str(genList[gen])+"', "+str(edad)+");"+ os.linesep)
         i=i+1;
     file.close()
 
@@ -40,7 +40,7 @@ def creaVentas(numCli, numVen):
         tempRand = random.randint(0,6)
         #Aleatorio cliente
         cliRand = random.randint(1,numCli)
-        file.write("INSERT INTO venta VALUES("+str(i)+", '"+str(tempList[tempRand])+"', "+str(cliRand)+")"+ os.linesep)
+        file.write("INSERT INTO venta VALUES("+str(i)+", '"+str(tempList[tempRand])+"', "+str(cliRand)+");"+ os.linesep)
         i=i+1;
     file.close()
 
@@ -57,7 +57,7 @@ def creaProdyVenta(numVen, numProd):
         while (x<=5):
             #aleatorio de producto
             prodRand = random.randint(1, numProd)
-            file.write("INSERT INTO producto_venta VALUES(" + str(i) +", "+ str(prodRand)+")" + os.linesep)
+            file.write("INSERT INTO producto_venta VALUES(" + str(i) +", "+ str(prodRand)+");" + os.linesep)
             x = x + 1;
         i= i + 1;
     file.close()
